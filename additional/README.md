@@ -4,7 +4,7 @@ These files are now added in to provide full transparency.
 
 
 File 1: KY EPSB - Preprocessing data
-	• Preprocesses and prepares the school data, avg salaries, and calculates the school funding based on avg teacher experience.   
+* Preprocesses and prepares the school data, avg salaries, and calculates the school funding based on avg teacher experience.   
 	• Imports 30+ files from the Kentucky Department of Education (KDE) website or directly from a KDE representative.
 	• Outputs preprocessed_df
 
