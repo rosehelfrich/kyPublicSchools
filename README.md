@@ -14,9 +14,9 @@ The original data was retrieved from the Kentucky Department of Education (KDE) 
 ### School Report Cards
 
 Main links to where the school information is reported  
-•	[2020-2022 data](<https://www.kyschoolreportcard.com/datasets?year=2022>)
-•	[2018-2019 data](<https://openhouse.education.ky.gov/Home/SRCData>)
-•	[2011-2017 data](<https://applications.education.ky.gov/SRC/DataSets.aspx>) •	
+* [2020-2022 data](<https://www.kyschoolreportcard.com/datasets?year=2022>)
+* [2018-2019 data](<https://openhouse.education.ky.gov/Home/SRCData>)
+* [2011-2017 data](<https://applications.education.ky.gov/SRC/DataSets.aspx>) •	
 
 
 
@@ -27,8 +27,8 @@ The district salary information may be found [here](<https://education.ky.gov/di
 
 
 Information requested from the [KDE representative](<https://education.ky.gov/districts/FinRept/Pages/School%20District%20Personnel%20Information.aspx>):  
-•	The salary schedule from 2009-2021 according to teacher rank - promptly provided upon request  
-•	The 2021-2022 spending per student - not available until spring of 2023 
+* The salary schedule from 2009-2021 according to teacher rank - promptly provided upon request  
+* The 2021-2022 spending per student - not available until spring of 2023 
 
 
 
