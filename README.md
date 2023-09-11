@@ -16,19 +16,20 @@ The original data was retrieved from the Kentucky Department of Education (KDE) 
 Main links to where the school information is reported  
 * [2020-2022 data](<https://www.kyschoolreportcard.com/datasets?year=2022>)
 * [2018-2019 data](<https://openhouse.education.ky.gov/Home/SRCData>)
-* [2011-2017 data](<https://applications.education.ky.gov/SRC/DataSets.aspx>) •	
+* [2011-2017 data](<https://applications.education.ky.gov/SRC/DataSets.aspx>) 
 
+
+As of September 2023, the data for the 2022-2023 period is not yet accessible.
 
 
 ### District Financial Reporting
 
 The district salary information may be found [here](<https://education.ky.gov/districts/FinRept/Pages/School%20District%20Personnel%20Information.aspx>).
-*Teacher salary is the ***certified*** salary schedule.*
+* To find information on the teacher salary, look for the **certified** salary schedule.
 
 
 Information requested from the [KDE representative](<https://education.ky.gov/districts/FinRept/Pages/School%20District%20Personnel%20Information.aspx>):  
 * The salary schedule from 2009-2021 according to teacher rank - promptly provided upon request  
-* The 2021-2022 spending per student - not available until spring of 2023 
 
 
 
