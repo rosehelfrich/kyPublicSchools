@@ -5,6 +5,20 @@ The Kentucky Department of Education (KDE) website provides public access to pub
 Schools are mandated to report their spending based on the average teacher salary within a district.  It would be more accurate to view a school budget based on average teacher salary per school.  For each Kentucky school with available data, this project estimated the school budget, and compared the estimated school spending with the previous school test scores.
 
 
+#### File 1: KY EPSB - Preprocessing data
+* Preprocesses and prepares the school data, avg salaries, and calculates the school funding based on avg teacher experience.   
+* Imports 30+ files from the Kentucky Department of Education (KDE) website or directly from a KDE representative.
+* Outputs preprocessed_df
+
+#### File 2:  KY AST scores
+* Combines the test scores per school per year. 
+* Outputs df_scores. 
+
+#### Predict Classification and Highly Impacted Schools 
+* The third and main file found in the above folder. 
+* Outputs the predict_df. 
+
+
 ## Original Data
 
 The original data was retrieved from the Kentucky Department of Education (KDE) website or directly from a KDE representative.  
