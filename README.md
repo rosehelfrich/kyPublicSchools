@@ -5,7 +5,7 @@ The Kentucky Department of Education (KDE) website provides public access to pub
 Schools are mandated to report their spending based on the average teacher salary within a district.  It would be more accurate to view a school budget based on average teacher salary per school.  For each Kentucky school with available data, this project estimated the school budget, and compared the estimated school spending with the previous school test scores.
 
 
-## File 1: KY EPSB - Data Cleaning and preprocessing
+## File 1: Spending Data
 * Imports over 30 files from the Kentucky Department of Education (KDE) website, including data directly received from a KDE representative.
 * Data cleaning and preprocessing.
 * Produced _preprocessed_df_ encompassing data for over 1500 Kentucky public schools' test scores spanning eleven years. In the primary file, data from two years (2020 and 2021) and about 300 schools are excluded due to the absence of associated test scores.
@@ -32,12 +32,12 @@ Schools are mandated to report their spending based on the average teacher salar
 
 
 
-## File 2:  KY AST scores
+## File 2:  Test scores per school
 * Combines the test scores per school per year. 
 * Outputs _df_scores_ that contains data for 1200+ Ky public school test scores across nine years.
 
-## File 3: Predict Classification and Highly Impacted Schools 
-* This is the primary file with two neural networks designed to predict missing classifications and ratings for schools.
+## File 3: Predict Classification and Rating
+* This is the primary file that predicts missing classifications and ratings for schools.
 * Results in the _predict_df_. 
 
 
@@ -50,9 +50,8 @@ The original data was retrieved from the Kentucky Department of Education (KDE) 
   ### School Report Cards
   
   These are the primary links for detailed information about each individual school, encompassing data on per-student spending, teacher and student counts, average teacher experience in years, and overall school test performance:
-  * [2020-2023 data](<https://www.kyschoolreportcard.com/datasets?year=2022>)
-  * [2018-2019 data](<https://openhouse.education.ky.gov/Home/SRCData>)
-  * [2011-2017 data](<https://applications.education.ky.gov/SRC/DataSets.aspx>) 
+  * [2020 & Onward data](<https://www.kyschoolreportcard.com/datasets?year=2022>)
+  * [Pre-2020 data](<https://openhouse.education.ky.gov/Home/SRCData>)
   
   _As of January 2024, financial data for the 2022-2023 school year remains unavailable._
   
