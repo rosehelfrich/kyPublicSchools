@@ -5,10 +5,10 @@ The Kentucky Department of Education (KDE) website provides public access to pub
 Schools are mandated to report their spending based on the average teacher salary within a district.  It would be more accurate to view a school budget based on average teacher salary per school.  For each Kentucky school with available data, this project estimated the school budget, and compared the estimated school spending with the previous school test scores.
 
 
-## File 1: Spending Data
-* Imports over 30 files from the Kentucky Department of Education (KDE) website, including data directly received from a KDE representative.
-* Data cleaning and preprocessing.
-* Produced _preprocessed_df_ encompassing data for over 1500 Kentucky public schools' test scores spanning eleven years. In the primary file, data from two years (2020 and 2021) and about 300 schools are excluded due to the absence of associated test scores.
+## File 1 and 2: Spending data preprocessed and cleaned
+* Imports over 35 files from the Kentucky Department of Education (KDE) website, including data directly received from a KDE representative.
+* Data cleaning and preprocessing for all the spending data first with the yearly school data (File 1), then from the overall district data (File 2).
+* Produced _preprocessed_df_ encompassing data for over 1400 Kentucky public schools spending information spanning eleven years. 
 
   <details><summary>Variable Information</summary>
     
@@ -32,18 +32,18 @@ Schools are mandated to report their spending based on the average teacher salar
 
 
 
-## File 2:  Test scores per school
+## File 3:  Test scores preprocessed and cleaned
 * Combines the test scores per school per year. 
-* Outputs _df_scores_ that contains data for 1200+ Ky public school test scores across nine years.
+* Outputs _df_scores_ that contains data for 1200+ Ky public school test scores across a decade.
 
-## File 3: Predict Classification and Rating
-* This is the primary file that predicts missing classifications and ratings for schools.
-* Results in the _predict_df_. 
+## File 4: Predict classification and rating
+* This is the primary file that predicts missing classifications and ratings for schools by implementing two neutral networks.
+* Produced _predict_df_. 
 
 
 ## Original Files 
 
-The original data was retrieved from the Kentucky Department of Education (KDE) website or directly from a KDE representative.  
+The original data was retrieved from the Kentucky Department of Education (KDE) website or directly from a KDE representative.  _As of January 26 2024, reported spending per student for the 2022-2023 school year remains unavailable._
 
   <details><summary>Links to KDE</summary>
   
@@ -52,9 +52,6 @@ The original data was retrieved from the Kentucky Department of Education (KDE) 
   These are the primary links for detailed information about each individual school, encompassing data on per-student spending, teacher and student counts, average teacher experience in years, and overall school test performance:
   * [2020 & Onward data](<https://www.kyschoolreportcard.com/datasets?year=2022>)
   * [Pre-2020 data](<https://openhouse.education.ky.gov/Home/SRCData>)
-  
-  _As of January 2024, financial data for the 2022-2023 school year remains unavailable._
-  
   
   ### District Financial Reporting
   

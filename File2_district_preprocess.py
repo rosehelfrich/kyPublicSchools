@@ -142,3 +142,4 @@ df_preprocessed = df_preprocessed.round({'Reported Spending per student': -1, 'M
 
 
 df_preprocessed.to_csv('preprocessed_df.csv', index = False)
+print("File2 Finished; preprocessed_df.csv updated")

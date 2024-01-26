@@ -27,7 +27,6 @@ def format_school_data(df, year):
 
 
 # Import School data by year. 
-
 school_spending = folder_imports('/Users/rosehelfrich/Repos/School_Imports/spending')
 
 envir_2012 = school_spending['raw_2012.csv'].loc[:,['SCH_YEAR', 'SCH_CD', 'SPENDING_PER_STDNT', 'MEMBERSHIP_TOTAL','FULLTIME_TCH_TOTAL', 'AVG_YRS_TCH_EXP']]
@@ -97,3 +96,4 @@ school_envir = pd.concat([envir_2012, envir_2013, envir_2014, envir_2015, envir_
 to_int(school_envir, ['Reported Spending per student', 'Student Count', 'Educator Count', 'Years of experience'])
 
 school_envir.to_csv('school_df.csv', index = False)
+print("File1 Finished; school_df.csv updated")
