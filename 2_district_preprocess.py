@@ -2,42 +2,41 @@ import os.path
 import pandas as pd
 import numpy as np
 
-# Import school spending file
-school_envir = pd.read_csv('school_df.csv')
+import os
+from dotenv import load_dotenv
+load_dotenv()
+pathImport=os.getenv('pathImport')
 
-def folder_imports(folder_path): 
+# Import school spending file
+spending_df = pd.read_csv('spending_df.csv')
+
+# Import folder path and return dfs for easy retrieval  
+def folder_imports(folder_path):
     files = os.listdir(folder_path)
-    dict = {}
+    dfs = {} 
     for file in files:
         new_df = pd.read_csv(os.path.join(folder_path, file))
-        dict[file] = new_df
-    return dict
+        dfs[file] = new_df
+    return dfs
 
-# Rounding data to integer by columns
-def to_int(df, columns):
-  for column in columns:
-    df[column] = pd.to_numeric(df[column]).round(0).astype('Int64')
+# Convert to float, then Round 
+def round_to_int(df, columns):
+    for col in columns:
+        df[col] = pd.to_numeric(df[col], errors='coerce').round(0)#.astype('Int64')
 
-# Select relevant teacher salary information, and format data
+# Select and format relevant teacher salary information.
 def salary_schedule(schedule, year):
-    # Select only rows where the Rank is II
+    # Select only rows where the Rank is II, and the max salary for each row.
     schedule = schedule[schedule['Rank'] == 'II'].copy()
-    # Compute the maximum salary for Rank II
-    #salary = schedule[['I', 'II', 'III']].max(axis=1, skipna=True)
-    salary = schedule[['I', 'II', 'III']].apply(pd.to_numeric, errors='coerce').max(axis=1)
-    
-    # Add the 'Salary' column
-    schedule['Salary'] = salary
+    schedule['Salary'] = schedule[['I', 'II', 'III']].apply(pd.to_numeric, errors='coerce').max(axis=1)
     # Split the 'District' column into two columns and convert 'DISTRICT NUMBER' to integer
     schedule[['District Code', 'District']] = schedule['District'].str.split(n=1, expand=True)
     schedule['District Code'] = schedule['District Code'].astype(int)
-    # Select only the necessary columns
+    # Create new_schedule with necessary columns, rename cols and add year col
     new_schedule = schedule.loc[:,['Fiscal Year', 'Years', 'District Code', 'District', 'Salary']].copy()
-    # Rename the columns
-    new_schedule = new_schedule.rename(columns={
-        'Fiscal Year': 'End Year',
-        'Years': 'Years of experience',
-        'Salary': 'Teacher salary based on experience'})
+    new_schedule = new_schedule.rename(columns={'Fiscal Year': 'End Year',
+                                                'Years': 'Years of experience',
+                                                'Salary': 'Teacher salary based on experience'})
     new_schedule['End Year'] = year
     return new_schedule
 
@@ -48,40 +47,32 @@ def get_district_average(row):
     return avg_salary.loc[district_code, end_year]
 
 ## District Salary Schedules by rank and years of experience
-district_salary_schedules = folder_imports('/Users/rosehelfrich/Repos/School_Imports/district')
+district_dfs = folder_imports(pathImport+'district')
 
 
 years = list(range(2010, 2024))
 salary_list = []
 
 for year in years:
-    # Assuming you have imported the files into district_salary_schedules
     file_key = f'fy {year} salary schedule.csv'
-    raw_salary = district_salary_schedules[file_key]
+    raw_salary = district_dfs[file_key]
     salary = salary_schedule(raw_salary, year)
     salary_list.append(salary)
 
 salary_by_experience = pd.concat(salary_list).drop_duplicates(ignore_index=True)
-
-# Convert to Int64
-to_int(salary_by_experience, ['End Year', 'Years of experience', 'District Code', 'Teacher salary based on experience'])
-
+round_to_int(salary_by_experience, ['Years of experience', 'Teacher salary based on experience'])
 
 # ## Teacher salary average per district
-avg_salary = district_salary_schedules['Average Classroom Teacher Salaries (1989-2024) ADA.csv'].loc[:, ['Dist No', '2009-10', '2010-11', '2011-12',
-                                               '2012-13', '2013-14', '2014-15', '2015-16', '2016-17',
-                                               '2017-18', '2018-19', '2019-20', '2020-21', '2021-22',
-                                               '2022-23', '2023-24']]
+avg_salary = district_dfs['Average Classroom Teacher Salaries (1989-2024) ADA.csv'].loc[:, ['Dist No', '2009-10', '2010-11', '2011-12', '2012-13', '2013-14', '2014-15', '2015-16', '2016-17', '2017-18', '2018-19', '2019-20', '2020-21', '2021-22', '2022-23', '2023-24']]
 
 # Rename the columns
 new_column_names = ['District Code'] + list(range(2010, 2025))
 avg_salary.columns = new_column_names
-
 avg_salary.dropna(inplace=True)
 
-# Convert to Int64
-to_int(avg_salary, ['District Code'])
-to_int(avg_salary, list(range(2010, 2025)))
+# Round
+round_to_int(avg_salary, ['District Code'])
+round_to_int(avg_salary, list(range(2010, 2025)))
 
 # Set district code to index
 avg_salary.set_index('District Code', drop=True, inplace=True)
@@ -93,27 +84,22 @@ df_salary = salary_by_experience.copy()
 df_salary['District teacher salary average'] = df_salary.apply(get_district_average, axis=1)
 df_salary.drop(['District'], axis =1, inplace=True)
 
-# Convert to Int64
-to_int(df_salary, ['District teacher salary average'])
+# Round
+round_to_int(df_salary, ['District teacher salary average'])
 
 
-## School and District
 # Merge the school and district data.
-df_preprocessed = pd.merge(school_envir, df_salary, on=['End Year', 'District Code', 'Years of experience'], how='left')
+df_preprocessed = pd.merge(spending_df, df_salary, on=['End Year', 'District Code', 'Years of experience'], how='left')
 
 # Create codes for level and end year
 df_preprocessed['Level Code'] = df_preprocessed['Level'].replace(['ES', 'MS', 'HS'], [0, 1, 2])
 df_preprocessed['End Year Code'] = df_preprocessed['End Year'] - 2012
 
-#Reorders the columns
-reordered_columns = ['End Year', 'End Year Code',
-                     'District', 'District Code',
-                     'School', 'School Code',
-                     'Level', 'Level Code',
-                     'Reported Spending per student', 'Student Count',
-                     'Educator Count', 'Years of experience',
-                     'Teacher salary based on experience', 'District teacher salary average']
-df_preprocessed = df_preprocessed[reordered_columns]
+#Reorder columns
+df_preprocessed = df_preprocessed[['End Year', 'End Year Code', 'District', 'District Code', 'School', 'School Code', 
+                                   'Level', 'Level Code', 'Reported Spending per student', 'Student Count', 
+                                   'Educator Count', 'Years of experience', 'Teacher salary based on experience', 
+                                   'District teacher salary average']]
 
 # In case duplicates occur.  Right now these don't actually drop any rows.
 df_preprocessed.drop_duplicates(inplace=True)
@@ -135,11 +121,10 @@ df_preprocessed['Money Difference per student'] = (df_preprocessed['Money Differ
 df_preprocessed['Estimated Spending per student'] = (df_preprocessed['Reported Spending per student'] + df_preprocessed['Money Difference per student'])
 
 # Convert to Int64
-to_int(df_preprocessed, ['Level Code', 'Money Difference per school', 'Money Difference per student', 'Estimated Spending per student'])
+round_to_int(df_preprocessed, ['Level Code', 'Money Difference per school', 'Money Difference per student', 'Estimated Spending per student'])
 
 # Round
 df_preprocessed = df_preprocessed.round({'Reported Spending per student': -1, 'Money Difference per school': -2})
 
-
 df_preprocessed.to_csv('preprocessed_df.csv', index = False)
-print("File2 Finished; preprocessed_df.csv updated")
+print("File 2 finished and updated")

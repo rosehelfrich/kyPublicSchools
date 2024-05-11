@@ -75,7 +75,7 @@ print('\nClassification Test loss: {0:.2f}. Classification Test accuracy: {1:.2f
 
 # Save model
 # Test accuracy for the saved model is 97%
-tf.keras.models.save_model(model, 'classification_model', include_optimizer=True)
+tf.keras.models.save_model(model, 'A_model_3layer', include_optimizer=True)
 
 ## Fill in Classification predictions using model
 # Grab the data that we want to predict
@@ -165,7 +165,7 @@ nested_test_loss, nested_test_accuracy = nested_model.evaluate(x_test_scaled, y_
 print('\nRating Test loss: {0:.2f}. Rating Test accuracy: {1:.2f}%'.format(nested_test_loss, nested_test_accuracy*100.))
 
 # Save model. The test data accuracy for the saved model is 96%
-tf.keras.models.save_model(nested_model, 'rating_model', include_optimizer=True)
+tf.keras.models.save_model(nested_model, 'B_model_5layer', include_optimizer=True)
 
 # ## Nested Predict
 nested_inputs = predict_df.loc[:,['End Year Code', 'Level Code',
@@ -183,6 +183,5 @@ predict_df['Rating Code'] = predict_df['Rating Code'].fillna(pd.Series(predict_r
 predict_df['Rating'] = predict_df['Rating'].fillna(pd.Series(predict_rating)).replace([0,1,2,3,4], ['Very Low', 'Low', 'Medium', 'High', 'Very High'])
 
 # # Export and Finish
-predict_df.info()
 predict_df.to_csv('predict_df.csv', index = False)
-print("File4 Finished: predict_df.csv updated")
+print("File 4 Finished and updated")
