@@ -1,5 +1,6 @@
 .env
 hidden_school_data
+hidden_school_data/*
 
 # Logs
 logs
