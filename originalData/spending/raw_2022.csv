@@ -1,0 +1,1405 @@
+﻿SCHOOL YEAR,COUNTY NUMBER,COUNTY NAME,DISTRICT NUMBER,DISTRICT NAME,SCHOOL NUMBER,SCHOOL NAME,SCHOOL CODE,SCHOOL TYPE,EDUCATOR COUNT,AVERAGE YEARS OF EXPERIENCE
+20212022,1,ADAIR,1,Adair County,10,Adair County High School,1010,A1,44,14.1
+20212022,1,ADAIR,1,Adair County,12,Adair Learning Academy,1012,A6,3,10.7
+20212022,1,ADAIR,1,Adair County,14,Adair County Middle School,1014,A1,41,11.9
+20212022,1,ADAIR,1,Adair County,16,Adair County Elementary School,1016,A1,36,15.5
+20212022,1,ADAIR,1,Adair County,20,Adair County Primary Center,1020,A1,38,11.3
+20212022,2,ALLEN,5,Allen County,10,Allen County Primary Center,5010,A1,50,12.2
+20212022,2,ALLEN,5,Allen County,15,James E Bazzell Middle School,5015,A1,28,12.0
+20212022,2,ALLEN,5,Allen County,20,Allen County-Scottsville High School,5020,A1,60,12.3
+20212022,2,ALLEN,5,Allen County,60,Allen County Intermediate Center,5060,A1,31,12.1
+20212022,56,JEFFERSON,6,Anchorage Independent,10,Anchorage Independent Public School,6010,A1,35,18.8
+20212022,3,ANDERSON,11,Anderson County,20,Anderson County High School,11020,A1,67,11.9
+20212022,3,ANDERSON,11,Anderson County,22,Robert B. Turner Elementary School,11022,A1,25,13.2
+20212022,3,ANDERSON,11,Anderson County,25,Anderson County Middle School,11025,A1,49,11.3
+20212022,3,ANDERSON,11,Anderson County,50,Saffell Street Elementary School,11050,A1,23,8.7
+20212022,3,ANDERSON,11,Anderson County,110,Emma B. Ward Elementary School,11110,A1,21,16.6
+20212022,3,ANDERSON,11,Anderson County,120,Ezra Sparrow Early Childhood Center,11120,A1,15,6.9
+20212022,10,BOYD,12,Ashland Independent,10,Paul G. Blazer High School,12010,A1,64,14.8
+20212022,10,BOYD,12,Ashland Independent,12,Ashland Head Start,12012,A4,8,7.3
+20212022,10,BOYD,12,Ashland Independent,50,Ashland Middle School,12050,A1,52,12.2
+20212022,10,BOYD,12,Ashland Independent,70,Crabbe Elementary School,12070,A1,21,8.5
+20212022,10,BOYD,12,Ashland Independent,80,Hager Elementary School,12080,A1,23,6.2
+20212022,10,BOYD,12,Ashland Independent,100,Oakview Elementary School,12100,A1,19,16.6
+20212022,10,BOYD,12,Ashland Independent,110,Poage Elementary School,12110,A1,16,13.8
+20212022,10,BOYD,12,Ashland Independent,130,Charles Russell Elementary School,12130,A1,17,16.0
+20212022,12,BRACKEN,13,Augusta Independent,11,Augusta Independent School,13011,A1,20,10.5
+20212022,4,BALLARD,15,Ballard County,5,Ballard County Middle School,15005,A1,23,9.1
+20212022,4,BALLARD,15,Ballard County,10,Ballard Memorial High School,15010,A1,26,10.4
+20212022,4,BALLARD,15,Ballard County,50,Ballard County Elementary School,15050,A1,29,12.0
+20212022,4,BALLARD,15,Ballard County,70,Ballard Co. Preschool/Headstart Center,15070,A4,4,11.8
+20212022,61,KNOX,16,Barbourville Independent,11,Barbourville City School,16011,A1,37,12.4
+20212022,90,NELSON,17,Bardstown Independent,5,Bardstown Alternative School,17005,A5,5,10.4
+20212022,90,NELSON,17,Bardstown Independent,9,Bardstown Early Childhood Center,17009,A4,8,12.1
+20212022,90,NELSON,17,Bardstown Independent,10,Bardstown Elementary School,17010,A1,31,12.1
+20212022,90,NELSON,17,Bardstown Independent,12,Bardstown Primary School,17012,A1,34,15.1
+20212022,90,NELSON,17,Bardstown Independent,20,Bardstown High School,17020,A1,51,17.1
+20212022,90,NELSON,17,Bardstown Independent,30,Bardstown Middle School,17030,A1,40,15.2
+20212022,5,BARREN,21,Barren County,10,Austin Tracy Elementary School,21010,A1,18,6.8
+20212022,5,BARREN,21,Barren County,11,College Street Campus,21011,A5,6,12.0
+20212022,5,BARREN,21,Barren County,12,BAVEL,21012,A5,8,18.1
+20212022,5,BARREN,21,Barren County,14,North Jackson Elementary,21014,A1,29,9.4
+20212022,5,BARREN,21,Barren County,27,Barren County High School,21027,A1,80,13.8
+20212022,5,BARREN,21,Barren County,35,Eastern Elementary School,21035,A1,27,9.9
+20212022,5,BARREN,21,Barren County,50,Barren County Middle School,21050,A1,45,9.3
+20212022,5,BARREN,21,Barren County,80,Hiseville Elementary School,21080,A1,21,13.8
+20212022,5,BARREN,21,Barren County,130,Park City Elementary School,21130,A1,21,8.0
+20212022,5,BARREN,21,Barren County,150,Red Cross Elementary School,21150,A1,28,14.1
+20212022,5,BARREN,21,Barren County,180,Temple Hill Elementary School,21180,A1,17,8.4
+20212022,6,BATH,25,Bath County,12,Second Chance Academy,25012,A5,1,3.0
+20212022,6,BATH,25,Bath County,14,Crossroads Elementary School,25014,A1,26,12.8
+20212022,6,BATH,25,Bath County,20,Bath County Middle School,25020,A1,26,12.3
+20212022,6,BATH,25,Bath County,30,Owingsville Elementary School,25030,A1,30,12.2
+20212022,6,BATH,25,Bath County,40,Bath County High School,25040,A1,40,14.0
+20212022,59,KENTON,26,Beechwood Independent,10,Beechwood Elementary School,26010,A1,37,14.8
+20212022,59,KENTON,26,Beechwood Independent,20,Beechwood High School,26020,A1,48,13.9
+20212022,59,KENTON,26,Beechwood Independent,420,Guardian Angel,26420,A6,5,11.2
+20212022,7,BELL,31,Bell County,12,Bell Central School Center,31012,A1,30,16.6
+20212022,7,BELL,31,Bell County,13,Page School Center,31013,A1,23,15.4
+20212022,7,BELL,31,Bell County,40,Bell County High School,31040,A1,39,12.4
+20212022,7,BELL,31,Bell County,180,Frakes School Center,31180,A1,11,17.2
+20212022,7,BELL,31,Bell County,250,Lone Jack School Center,31250,A1,14,14.2
+20212022,7,BELL,31,Bell County,345,Right Fork School Center,31345,A1,15,15.2
+20212022,7,BELL,31,Bell County,390,Yellow Creek School Center,31390,A1,34,11.8
+20212022,19,CAMPBELL,32,Bellevue Independent,10,Bellevue High School,32010,A1,23,10.1
+20212022,19,CAMPBELL,32,Bellevue Independent,20,Grandview Elementary School,32020,A1,19,5.3
+20212022,73,MADISON,34,Berea Independent,10,Berea Community Elementary School,34010,A1,27,13.8
+20212022,73,MADISON,34,Berea Independent,15,Berea Community Middle School,34015,A1,26,12.3
+20212022,73,MADISON,34,Berea Independent,20,Berea Community High School,34020,A1,31,14.4
+20212022,8,BOONE,35,Boone County,5,A M Yealey Elementary School,35005,A1,32,14.4
+20212022,8,BOONE,35,Boone County,6,Erpenbeck Elementary School,35006,A1,38,15.2
+20212022,8,BOONE,35,Boone County,8,North Pointe Elementary School,35008,A1,32,15.3
+20212022,8,BOONE,35,Boone County,10,Camp Ernst Middle School,35010,A1,51,11.3
+20212022,8,BOONE,35,Boone County,11,Shirley Mann Elementary School,35011,A1,46,17.2
+20212022,8,BOONE,35,Boone County,12,Thornwilde Elementary School,35012,A1,38,13.3
+20212022,8,BOONE,35,Boone County,15,Randall K. Cooper High School,35015,A1,79,11.3
+20212022,8,BOONE,35,Boone County,17,Longbranch Elementary School,35017,A1,46,13.2
+20212022,8,BOONE,35,Boone County,18,Steeplechase Elementary School,35018,A1,33,11.9
+20212022,8,BOONE,35,Boone County,20,Rector A. Jones Middle School,35020,A1,57,7.1
+20212022,8,BOONE,35,Boone County,25,Ballyshannon Middle School,35025,A1,45,10.2
+20212022,8,BOONE,35,Boone County,30,Boone County High School,35030,A1,86,13.9
+20212022,8,BOONE,35,Boone County,40,Burlington Elementary School,35040,A1,43,12.9
+20212022,8,BOONE,35,Boone County,41,Charles H. Kelly Elementary School,35041,A1,19,14.4
+20212022,8,BOONE,35,Boone County,43,Conner Middle School,35043,A1,54,14.3
+20212022,8,BOONE,35,Boone County,45,Conner High School,35045,A1,85,13.3
+20212022,8,BOONE,35,Boone County,50,Florence Elementary School,35050,A1,36,8.4
+20212022,8,BOONE,35,Boone County,55,Chester Goodridge Elementary School,35055,A1,38,12.6
+20212022,8,BOONE,35,Boone County,65,Hillard Collins Elementary School,35065,A1,37,11.5
+20212022,8,BOONE,35,Boone County,71,Larry A. Ryle High School,35071,A1,105,13.9
+20212022,8,BOONE,35,Boone County,75,Gray Middle School,35075,A1,64,14.8
+20212022,8,BOONE,35,Boone County,80,New Haven Elementary School,35080,A1,36,15.7
+20212022,8,BOONE,35,Boone County,81,Ockerman Elementary School,35081,A1,43,10.8
+20212022,8,BOONE,35,Boone County,83,Stephens Elementary School,35083,A1,37,13.2
+20212022,8,BOONE,35,Boone County,85,Ockerman Middle School,35085,A1,44,14.2
+20212022,8,BOONE,35,Boone County,135,ACCEL Academy,35135,A5,5,16.6
+20212022,8,BOONE,35,Boone County,170,RISE Academy,35170,A5,10,10.0
+20212022,9,BOURBON,41,Bourbon County,10,Bourbon Central Elementary School,41010,A1,31,8.4
+20212022,9,BOURBON,41,Bourbon County,11,Bourbon County Preschool Headstart,41011,A4,10,9.0
+20212022,9,BOURBON,41,Bourbon County,30,Cane Ridge Elementary School,41030,A1,30,12.8
+20212022,9,BOURBON,41,Bourbon County,90,North Middletown Elementary School,41090,A1,11,7.8
+20212022,9,BOURBON,41,Bourbon County,110,Bourbon County High School,41110,A1,53,10.0
+20212022,9,BOURBON,41,Bourbon County,120,Bourbon County Middle School,41120,A1,42,11.2
+20212022,114,WARREN,42,Bowling Green Independent,10,Dishman McGinnis Elementary School,42010,A1,24,12.9
+20212022,114,WARREN,42,Bowling Green Independent,11,Childrens Crisis Stabilization Unit,42011,A6,1,15.0
+20212022,114,WARREN,42,Bowling Green Independent,13,Warren Regional Juvenile Detention Ctr,42013,A6,3,21.0
+20212022,114,WARREN,42,Bowling Green Independent,57,Parker-Bennett-Curry School,42057,A1,25,9.8
+20212022,114,WARREN,42,Bowling Green Independent,60,Potter Gray Elementary,42060,A1,24,16.2
+20212022,114,WARREN,42,Bowling Green Independent,65,Bowling Green Junior High,42065,A1,69,12.1
+20212022,114,WARREN,42,Bowling Green Independent,70,Bowling Green High School,42070,A1,82,10.5
+20212022,114,WARREN,42,Bowling Green Independent,80,T C Cherry Elementary School,42080,A1,27,10.6
+20212022,114,WARREN,42,Bowling Green Independent,90,W R McNeill Elementary School,42090,A1,23,13.4
+20212022,114,WARREN,42,Bowling Green Independent,98,Bowling Green Learning Center,42098,A5,9,12.9
+20212022,10,BOYD,45,Boyd County,10,Boyd County High School,45010,A1,65,14.6
+20212022,10,BOYD,45,Boyd County,20,Cannonsburg Elementary School,45020,A1,19,11.8
+20212022,10,BOYD,45,Boyd County,35,Boyd County Middle School,45035,A1,49,10.1
+20212022,10,BOYD,45,Boyd County,45,Boyd County Central School,45045,A5,2,8.5
+20212022,10,BOYD,45,Boyd County,80,Summit Elementary School,45080,A1,29,12.3
+20212022,10,BOYD,45,Boyd County,85,Ramey-Estep High School,45085,A6,7,15.7
+20212022,10,BOYD,45,Boyd County,95,Catlettsburg Elementary School,45095,A1,16,10.3
+20212022,10,BOYD,45,Boyd County,97,Ponderosa Elementary School,45097,A1,19,10.4
+20212022,10,BOYD,45,Boyd County,198,Boyd Co Early Childhood Academy,45198,A4,13,8.8
+20212022,11,BOYLE,51,Boyle County,3,Boyle County Middle School,51003,A1,38,14.0
+20212022,11,BOYLE,51,Boyle County,4,Boyle County Day Treatment,51004,A6,1,24.0
+20212022,11,BOYLE,51,Boyle County,5,Boyle County High School,51005,A1,56,12.8
+20212022,11,BOYLE,51,Boyle County,40,Junction City Elementary School,51040,A1,26,12.3
+20212022,11,BOYLE,51,Boyle County,50,Woodlawn Elementary School,51050,A1,33,10.2
+20212022,11,BOYLE,51,Boyle County,80,Perryville Elementary School,51080,A1,19,14.9
+20212022,12,BRACKEN,55,Bracken County,10,Bracken County High School,55010,A1,24,12.7
+20212022,12,BRACKEN,55,Bracken County,50,Taylor Elementary School,55050,A1,32,12.3
+20212022,12,BRACKEN,55,Bracken County,60,Bracken County Middle School,55060,A1,21,11.0
+20212022,13,BREATHITT,61,Breathitt County,30,Highland-Turner Elementary School,61030,A1,11,13.0
+20212022,13,BREATHITT,61,Breathitt County,31,Breathitt Regional School,61031,A6,1,24.0
+20212022,13,BREATHITT,61,Breathitt County,33,Breathitt County Day Treatment,61033,A6,3,15.7
+20212022,13,BREATHITT,61,Breathitt County,60,Breathitt County High School,61060,A1,45,12.3
+20212022,13,BREATHITT,61,Breathitt County,150,Sebastian Elementary School,61150,A1,24,11.9
+20212022,13,BREATHITT,61,Breathitt County,185,Marie Roberts-Caney Elementary School,61185,A1,16,10.5
+20212022,14,BRECKINRIDGE,65,Breckinridge County,10,Breckinridge County High School,65010,A1,46,13.5
+20212022,14,BRECKINRIDGE,65,Breckinridge County,20,Hardinsburg Elementary School,65020,A1,25,11.8
+20212022,14,BRECKINRIDGE,65,Breckinridge County,30,Ben Johnson Elementary School,65030,A1,14,8.3
+20212022,14,BRECKINRIDGE,65,Breckinridge County,40,Custer Elementary School,65040,A1,12,6.9
+20212022,14,BRECKINRIDGE,65,Breckinridge County,50,Irvington Elementary School,65050,A1,22,9.3
+20212022,14,BRECKINRIDGE,65,Breckinridge County,100,Breckinridge County Middle School,65100,A1,37,11.1
+20212022,15,BULLITT,71,Bullitt County,5,Bernheim Middle School,71005,A1,26,8.5
+20212022,15,BULLITT,71,Bullitt County,6,Freedom Elementary School,71006,A1,25,9.0
+20212022,15,BULLITT,71,Bullitt County,7,Zoneton Middle School,71007,A1,25,8.6
+20212022,15,BULLITT,71,Bullitt County,8,Shepherdsville Elementary,71008,A1,32,9.4
+20212022,15,BULLITT,71,Bullitt County,9,Eastside Middle School,71009,A1,35,14.6
+20212022,15,BULLITT,71,Bullitt County,10,Brooks Elementary School,71010,A1,24,11.0
+20212022,15,BULLITT,71,Bullitt County,15,Bullitt Central High School,71015,A1,78,10.6
+20212022,15,BULLITT,71,Bullitt County,16,Bullitt East High School,71016,A1,75,11.3
+20212022,15,BULLITT,71,Bullitt County,18,Bullitt Lick Middle School,71018,A1,33,7.1
+20212022,15,BULLITT,71,Bullitt County,20,Cedar Grove Elementary,71020,A1,22,14.8
+20212022,15,BULLITT,71,Bullitt County,25,Hebron Middle School,71025,A1,27,11.2
+20212022,15,BULLITT,71,Bullitt County,30,Lebanon Junction Elementary,71030,A1,21,13.0
+20212022,15,BULLITT,71,Bullitt County,32,Spring Meadows,71032,A6,2,12.0
+20212022,15,BULLITT,71,Bullitt County,45,Maryville Elementary School,71045,A1,19,10.6
+20212022,15,BULLITT,71,Bullitt County,50,MT. Washington Middle School,71050,A1,24,13.5
+20212022,15,BULLITT,71,Bullitt County,55,MT. Washington Elementary,71055,A1,28,12.6
+20212022,15,BULLITT,71,Bullitt County,60,Crossroads Elementary,71060,A1,24,11.9
+20212022,15,BULLITT,71,Bullitt County,65,Pleasant Grove Elementary School,71065,A1,30,13.9
+20212022,15,BULLITT,71,Bullitt County,70,Nichols Elementary,71070,A1,10,13.7
+20212022,15,BULLITT,71,Bullitt County,75,North Bullitt High School,71075,A1,63,12.2
+20212022,15,BULLITT,71,Bullitt County,78,Old Mill Elementary School,71078,A1,23,11.9
+20212022,15,BULLITT,71,Bullitt County,80,Overdale Elementary School,71080,A1,21,10.2
+20212022,15,BULLITT,71,Bullitt County,90,Roby Elementary School,71090,A1,22,8.8
+20212022,15,BULLITT,71,Bullitt County,110,Riverview Opportunity Center,71110,A5,18,11.9
+20212022,15,BULLITT,71,Bullitt County,120,Bullitt Alternative Center,71120,A6,6,17.2
+20212022,84,MERCER,72,Burgin Independent,30,Burgin Independent School,72030,A1,36,12.2
+20212022,16,BUTLER,75,Butler County,30,Butler County High School,75030,A1,39,11.2
+20212022,16,BUTLER,75,Butler County,31,North Butler Elementary,75031,A1,25,14.2
+20212022,16,BUTLER,75,Butler County,32,Butler County Learning Center,75032,A5,2,21.0
+20212022,16,BUTLER,75,Butler County,35,Butler County Middle School,75035,A1,32,10.3
+20212022,16,BUTLER,75,Butler County,110,Green River School,75110,A6,2,13.0
+20212022,16,BUTLER,75,Butler County,120,Morgantown Elementary School,75120,A1,28,10.9
+20212022,17,CALDWELL,81,Caldwell County,10,Caldwell County High School,81010,A1,33,14.5
+20212022,17,CALDWELL,81,Caldwell County,20,Caldwell County Middle School,81020,A1,28,13.4
+20212022,17,CALDWELL,81,Caldwell County,30,Caldwell County Primary School,81030,A1,22,13.8
+20212022,17,CALDWELL,81,Caldwell County,70,Caldwell County Elementary School,81070,A1,25,10.7
+20212022,18,CALLOWAY,85,Calloway County,20,Calloway County High School,85020,A1,60,15.4
+20212022,18,CALLOWAY,85,Calloway County,25,East Calloway Elementary School,85025,A1,19,14.8
+20212022,18,CALLOWAY,85,Calloway County,35,North Calloway Elementary School,85035,A1,29,11.3
+20212022,18,CALLOWAY,85,Calloway County,45,Southwest Calloway Elementary School,85045,A1,25,13.2
+20212022,18,CALLOWAY,85,Calloway County,55,Calloway County Middle School,85055,A1,45,14.7
+20212022,18,CALLOWAY,85,Calloway County,75,Calloway County Preschool Center,85075,A4,6,17.8
+20212022,18,CALLOWAY,85,Calloway County,95,Calloway County Day Treatment,85095,A6,6,14.5
+20212022,18,CALLOWAY,85,Calloway County,96,Calloway County Alternative Program,85096,A5,5,12.8
+20212022,19,CAMPBELL,91,Campbell County,11,Campbell County Middle School,91011,A1,69,9.0
+20212022,19,CAMPBELL,91,Campbell County,12,John W. Reiley Elementary School,91012,A1,21,13.6
+20212022,19,CAMPBELL,91,Campbell County,13,Donald E. Cline Elementary School,91013,A1,19,12.1
+20212022,19,CAMPBELL,91,Campbell County,16,Alexandria Educational Center,91016,A6,4,7.0
+20212022,19,CAMPBELL,91,Campbell County,19,Campbell Ridge Elementary,91019,A1,28,15.3
+20212022,19,CAMPBELL,91,Campbell County,35,Crossroads Elementary School,91035,A1,31,12.5
+20212022,19,CAMPBELL,91,Campbell County,50,Grant's Lick Elementary School,91050,A1,16,14.9
+20212022,19,CAMPBELL,91,Campbell County,100,Campbell County High School,91100,A1,83,11.9
+20212022,109,TAYLOR,92,Campbellsville Independent,10,Campbellsville Elementary School,92010,A1,41,11.0
+20212022,109,TAYLOR,92,Campbellsville Independent,11,Campbellsville Eagle Academy,92011,A5,3,18.7
+20212022,109,TAYLOR,92,Campbellsville Independent,20,Campbellsville High School,92020,A1,31,12.6
+20212022,109,TAYLOR,92,Campbellsville Independent,25,Campbellsville Middle School,92025,A1,36,11.9
+20212022,20,CARLISLE,95,Carlisle County,20,Carlisle County Middle School,95020,A1,13,6.5
+20212022,20,CARLISLE,95,Carlisle County,40,Carlisle County High School,95040,A1,19,12.6
+20212022,20,CARLISLE,95,Carlisle County,60,Carlisle County Elementary School,95060,A1,24,12.5
+20212022,21,CARROLL,101,Carroll County,5,Cartmell Elementary,101005,A1,25,7.5
+20212022,21,CARROLL,101,Carroll County,7,Carroll Co Childhood Development Center,101007,A4,3,7.0
+20212022,21,CARROLL,101,Carroll County,10,Kathryn Winn Primary,101010,A1,20,7.1
+20212022,21,CARROLL,101,Carroll County,18,Carroll County High School,101018,A1,31,9.0
+20212022,21,CARROLL,101,Carroll County,19,Carroll County Middle School,101019,A1,34,11.0
+20212022,22,CARTER,105,Carter County,40,Carter Virtual Academy,105040,A5,1,12.0
+20212022,22,CARTER,105,Carter County,52,Heritage Elementary School,105052,A1,17,7.8
+20212022,22,CARTER,105,Carter County,53,Tygart Creek Elementary School,105053,A1,18,9.4
+20212022,22,CARTER,105,Carter County,60,Carter City Elementary School,105060,A1,7,12.1
+20212022,22,CARTER,105,Carter County,120,East Carter County High School,105120,A1,40,12.4
+20212022,22,CARTER,105,Carter County,130,East Carter Middle School,105130,A1,33,12.0
+20212022,22,CARTER,105,Carter County,250,Olive Hill Elementary School,105250,A1,19,11.4
+20212022,22,CARTER,105,Carter County,340,Prichard Elementary School,105340,A1,28,13.5
+20212022,22,CARTER,105,Carter County,450,Star Elementary School,105450,A1,9,16.0
+20212022,22,CARTER,105,Carter County,500,West Carter County High School,105500,A1,36,9.8
+20212022,22,CARTER,105,Carter County,505,West Carter Middle School,105505,A1,27,13.0
+20212022,23,CASEY,111,Casey County,15,Walnut Hill Elementary School,111015,A1,23,12.0
+20212022,23,CASEY,111,Casey County,26,Jones Park Elementary,111026,A1,19,14.5
+20212022,23,CASEY,111,Casey County,45,Casey County High School,111045,A1,43,7.8
+20212022,23,CASEY,111,Casey County,70,Casey County Middle School,111070,A1,31,11.4
+20212022,23,CASEY,111,Casey County,190,Liberty Elementary School,111190,A1,23,9.6
+20212022,5,BARREN,113,Caverna Independent,25,Caverna Elementary School,113025,A1,12,10.3
+20212022,5,BARREN,113,Caverna Independent,26,Caverna Middle School,113026,A1,6,16.0
+20212022,5,BARREN,113,Caverna Independent,30,Caverna High School,113030,A1,6,15.0
+20212022,24,CHRISTIAN,115,Christian County,12,Christian County Public Schools VLA,115012,A5,17,14.6
+20212022,24,CHRISTIAN,115,Christian County,17,Martin Luther King Jr. Elementary School,115017,A1,34,6.9
+20212022,24,CHRISTIAN,115,Christian County,23,Cumberland Hall School,115023,A6,3,19.7
+20212022,24,CHRISTIAN,115,Christian County,26,Freedom Elementary School,115026,A1,34,7.3
+20212022,24,CHRISTIAN,115,Christian County,30,Christian County High School,115030,A1,69,9.3
+20212022,24,CHRISTIAN,115,Christian County,35,Christian County Middle School,115035,A1,43,7.7
+20212022,24,CHRISTIAN,115,Christian County,40,Crofton Elementary School,115040,A1,21,12.9
+20212022,24,CHRISTIAN,115,Christian County,50,Hopkinsville High School,115050,A1,61,6.4
+20212022,24,CHRISTIAN,115,Christian County,55,Indian Hills Elementary School,115055,A1,32,11.4
+20212022,24,CHRISTIAN,115,Christian County,58,Hopkinsville Middle School,115058,A1,35,10.5
+20212022,24,CHRISTIAN,115,Christian County,100,Bluegrass Learning Academy,115100,A5,9,14.1
+20212022,24,CHRISTIAN,115,Christian County,125,Millbrooke Elementary School,115125,A1,33,9.1
+20212022,24,CHRISTIAN,115,Christian County,130,Pembroke Elementary School,115130,A1,39,11.3
+20212022,24,CHRISTIAN,115,Christian County,150,Sinking Fork Elementary School,115150,A1,21,13.8
+20212022,24,CHRISTIAN,115,Christian County,170,South Christian Elementary School,115170,A1,35,9.0
+20212022,24,CHRISTIAN,115,Christian County,180,Christian County Day Treatment,115180,A6,3,13.0
+20212022,24,CHRISTIAN,115,Christian County,975,Gateway Academy to Innovation & Tech.,115975,A2,20,12.0
+20212022,25,CLARK,121,Clark County,2,Willis H. Justice Elementary School,121002,A1,24,13.3
+20212022,25,CLARK,121,Clark County,4,Strode Station Elementary School,121004,A1,27,13.8
+20212022,25,CLARK,121,Clark County,6,Shearer Elementary School,121006,A1,21,11.8
+20212022,25,CLARK,121,Clark County,8,William G. Conkwright Elementary,121008,A1,25,7.5
+20212022,25,CLARK,121,Clark County,13,Phoenix Academy,121013,A6,11,18.6
+20212022,25,CLARK,121,Clark County,17,Clark County Preschool,121017,A4,16,6.2
+20212022,25,CLARK,121,Clark County,23,Robert D. Campbell Jr. High,121023,A1,51,9.6
+20212022,25,CLARK,121,Clark County,26,Rev. Henry E. Baker Sr. Interm. School,121026,A1,51,10.5
+20212022,25,CLARK,121,Clark County,30,George Rogers Clark High School,121030,A1,94,7.9
+20212022,26,CLAY,125,Clay County,40,Big Creek Elementary,125040,A1,7,12.1
+20212022,26,CLAY,125,Clay County,41,Horse Creek Learning Center,125041,A5,3,10.7
+20212022,26,CLAY,125,Clay County,70,Burning Springs Elementary,125070,A1,16,9.2
+20212022,26,CLAY,125,Clay County,95,Clay County Middle School,125095,A1,34,14.2
+20212022,26,CLAY,125,Clay County,100,Clay County High School,125100,A1,56,12.6
+20212022,26,CLAY,125,Clay County,200,Goose Rock Elementary,125200,A1,11,10.7
+20212022,26,CLAY,125,Clay County,220,Hacker Elementary School,125220,A1,16,5.6
+20212022,26,CLAY,125,Clay County,500,Manchester Elementary School,125500,A1,22,11.1
+20212022,26,CLAY,125,Clay County,570,Oneida Elementary School,125570,A1,7,10.7
+20212022,26,CLAY,125,Clay County,580,Paces Creek Elementary,125580,A1,14,10.4
+20212022,27,CLINTON,131,Clinton County,15,Albany Elementary School,131015,A1,32,11.0
+20212022,27,CLINTON,131,Clinton County,16,Foothills Academy,131016,A6,8,23.3
+20212022,27,CLINTON,131,Clinton County,20,Clinton County Early Childhood Center,131020,A1,12,12.8
+20212022,27,CLINTON,131,Clinton County,45,Clinton County Middle School,131045,A1,28,9.0
+20212022,27,CLINTON,131,Clinton County,50,Clinton County High School,131050,A1,29,12.4
+20212022,14,BRECKINRIDGE,132,Cloverport Independent,30,Cloverport Independent School,132030,A1,25,10.9
+20212022,118,WHITLEY,133,Corbin Independent,12,Corbin Educational Center,133012,A6,6,14.0
+20212022,118,WHITLEY,133,Corbin Independent,19,CORBIN ELEMENTARY SCHOOL,133019,A1,20,11.2
+20212022,118,WHITLEY,133,Corbin Independent,40,Corbin High School,133040,A1,55,12.9
+20212022,118,WHITLEY,133,Corbin Independent,50,Corbin Middle School,133050,A1,40,13.8
+20212022,118,WHITLEY,133,Corbin Independent,70,Corbin Primary,133070,A1,36,14.2
+20212022,118,WHITLEY,133,Corbin Independent,100,Corbin School of Innovation,133100,A5,8,6.1
+20212022,59,KENTON,134,Covington Independent,10,Biggs Early Childhood Education Ctr,134010,A4,8,8.5
+20212022,59,KENTON,134,Covington Independent,11,Covington Adult High School,134011,A5,2,16.0
+20212022,59,KENTON,134,Covington Independent,13,Transformational Learning Center,134013,A5,7,16.7
+20212022,59,KENTON,134,Covington Independent,17,Holmes Middle School,134017,A1,40,7.2
+20212022,59,KENTON,134,Covington Independent,19,Holmes High School,134019,A1,57,8.2
+20212022,59,KENTON,134,Covington Independent,110,John G Carlisle Elementary,134110,A1,21,7.0
+20212022,59,KENTON,134,Covington Independent,115,Latonia Elementary School,134115,A1,19,6.4
+20212022,59,KENTON,134,Covington Independent,150,Ninth District Elementary,134150,A1,23,4.5
+20212022,59,KENTON,134,Covington Independent,160,Glenn O Swing Elementary,134160,A1,20,8.3
+20212022,59,KENTON,134,Covington Independent,170,Sixth District Elementary School,134170,A1,23,11.6
+20212022,28,CRITTENDEN,135,Crittenden County,20,Crittenden County High School,135020,A1,32,11.7
+20212022,28,CRITTENDEN,135,Crittenden County,25,Crittenden County Middle School,135025,A1,21,11.0
+20212022,28,CRITTENDEN,135,Crittenden County,100,Crittenden County Elementary School,135100,A1,36,10.4
+20212022,29,CUMBERLAND,141,Cumberland County,70,Cumberland County Elementary School,141070,A1,27,9.7
+20212022,29,CUMBERLAND,141,Cumberland County,75,Cumberland County Middle School,141075,A1,15,10.2
+20212022,29,CUMBERLAND,141,Cumberland County,80,Cumberland County High School,141080,A1,21,9.7
+20212022,11,BOYLE,143,Danville Independent,3,Mary G. Hogsett Primary School,143003,A1,21,9.6
+20212022,11,BOYLE,143,Danville Independent,5,John W. Bate Middle School,143005,A1,31,9.9
+20212022,11,BOYLE,143,Danville Independent,10,Edna L. Toliver Intermediate School,143010,A1,33,11.0
+20212022,11,BOYLE,143,Danville Independent,15,Anchor Academy,143015,A5,3,14.0
+20212022,11,BOYLE,143,Danville Independent,30,Danville High School,143030,A1,42,11.7
+20212022,11,BOYLE,143,Danville Independent,350,Sunrise Academy,143350,A6,3,15.3
+20212022,30,DAVIESS,145,Daviess County,5,Apollo High School,145005,A1,83,13.0
+20212022,30,DAVIESS,145,Daviess County,6,Meadow Lands Elementary School,145006,A1,26,13.3
+20212022,30,DAVIESS,145,Daviess County,7,East View Elementary School,145007,A1,27,10.7
+20212022,30,DAVIESS,145,Daviess County,8,F T Burns Middle School,145008,A1,52,12.3
+20212022,30,DAVIESS,145,Daviess County,10,Daviess County High School,145010,A1,96,14.4
+20212022,30,DAVIESS,145,Daviess County,11,Southern Oaks Elementary School,145011,A1,26,14.1
+20212022,30,DAVIESS,145,Daviess County,15,The Center for Academic Improvement,145015,A5,2,19.0
+20212022,30,DAVIESS,145,Daviess County,20,Daviess County Middle School,145020,A1,55,15.5
+20212022,30,DAVIESS,145,Daviess County,25,Highland Elementary School,145025,A1,27,15.1
+20212022,30,DAVIESS,145,Daviess County,40,Deer Park Elementary School,145040,A1,26,16.8
+20212022,30,DAVIESS,145,Daviess County,70,Sorgho Elementary School,145070,A1,23,13.0
+20212022,30,DAVIESS,145,Daviess County,85,Audubon Elementary School,145085,A1,25,10.9
+20212022,30,DAVIESS,145,Daviess County,95,Tamarack Elementary School,145095,A1,29,14.0
+20212022,30,DAVIESS,145,Daviess County,130,West Louisville Elementary School,145130,A1,21,11.8
+20212022,30,DAVIESS,145,Daviess County,140,Whitesville Elementary School,145140,A1,19,11.9
+20212022,30,DAVIESS,145,Daviess County,145,F T Burns Elementary School,145145,A1,28,11.3
+20212022,30,DAVIESS,145,Daviess County,150,Country Heights Elementary School,145150,A1,24,9.2
+20212022,30,DAVIESS,145,Daviess County,155,College View Middle School,145155,A1,59,12.4
+20212022,30,DAVIESS,145,Daviess County,160,Owensboro Day Treatment,145160,A6,4,15.3
+20212022,30,DAVIESS,145,Daviess County,170,Valley High School,145170,A6,4,12.8
+20212022,30,DAVIESS,145,Daviess County,175,Valley Elementary School,145175,A6,5,13.2
+20212022,30,DAVIESS,145,Daviess County,180,Heritage Park High School,145180,A5,16,9.3
+20212022,54,HOPKINS,146,Dawson Springs Independent,17,Dawson Springs Elementary,146017,A1,13,10.4
+20212022,54,HOPKINS,146,Dawson Springs Independent,18,Dawson Springs Jr/Sr High School,146018,A1,22,10.9
+20212022,19,CAMPBELL,147,Dayton Independent,10,Dayton High School,147010,A1,25,11.8
+20212022,19,CAMPBELL,147,Dayton Independent,30,Lincoln Elementary School,147030,A1,24,11.8
+20212022,63,LAUREL,149,East Bernstadt Independent,10,East Bernstadt Elementary School,149010,A1,29,9.1
+20212022,31,EDMONSON,151,Edmonson County,20,South Edmonson Elementary School,151020,A1,24,12.2
+20212022,31,EDMONSON,151,Edmonson County,22,Edmonson County 5/6 Center,151022,A1,17,12.2
+20212022,31,EDMONSON,151,Edmonson County,50,Edmonson County Middle School,151050,A1,20,13.0
+20212022,31,EDMONSON,151,Edmonson County,60,Edmonson County High School,151060,A1,38,12.8
+20212022,31,EDMONSON,151,Edmonson County,80,Kyrock Elementary School,151080,A1,19,12.7
+20212022,47,HARDIN,152,Elizabethtown Independent,10,Elizabethtown High School,152010,A1,52,15.2
+20212022,47,HARDIN,152,Elizabethtown Independent,15,Helmwood Heights Elementary School,152015,A1,22,11.8
+20212022,47,HARDIN,152,Elizabethtown Independent,20,Morningside Elementary School,152020,A1,24,15.1
+20212022,47,HARDIN,152,Elizabethtown Independent,25,Panther Academy,152025,A1,13,11.1
+20212022,47,HARDIN,152,Elizabethtown Independent,35,Talton K Stone Middle School,152035,A1,36,9.2
+20212022,47,HARDIN,152,Elizabethtown Independent,41,Valley View Education Center,152041,A5,4,12.3
+20212022,32,ELLIOTT,155,Elliott County,100,Elliott County Primary School,155100,A1,14,8.1
+20212022,32,ELLIOTT,155,Elliott County,270,Elliott County Intermediate School,155270,A1,13,10.5
+20212022,32,ELLIOTT,155,Elliott County,275,Elliott County Middle School,155275,A1,17,14.3
+20212022,32,ELLIOTT,155,Elliott County,280,Elliott County High School,155280,A1,26,12.3
+20212022,52,HENRY,156,Eminence Independent,10,Eminence High School,156010,A1,39,10.8
+20212022,52,HENRY,156,Eminence Independent,20,Eminence Elementary School,156020,A1,23,9.0
+20212022,59,KENTON,157,Erlanger-Elsmere Independent,3,Lindeman Elementary School,157003,A1,18,17.3
+20212022,59,KENTON,157,Erlanger-Elsmere Independent,5,Arnett Elementary School,157005,A1,17,6.1
+20212022,59,KENTON,157,Erlanger-Elsmere Independent,10,Howell Elementary School,157010,A1,17,5.5
+20212022,59,KENTON,157,Erlanger-Elsmere Independent,15,Early Learning Center,157015,A4,1,12.0
+20212022,59,KENTON,157,Erlanger-Elsmere Independent,30,Lloyd High School,157030,A1,45,10.3
+20212022,59,KENTON,157,Erlanger-Elsmere Independent,50,Miles Elementary School,157050,A1,14,7.1
+20212022,59,KENTON,157,Erlanger-Elsmere Independent,60,Tichenor Middle School,157060,A1,38,9.9
+20212022,59,KENTON,157,Erlanger-Elsmere Independent,61,Bartlett Educational Center,157061,A5,7,13.0
+20212022,33,ESTILL,161,Estill County,11,Estill Springs Elementary,161011,A1,23,10.2
+20212022,33,ESTILL,161,Estill County,14,Estill County Success Academy,161014,A5,1,24.0
+20212022,33,ESTILL,161,Estill County,85,Estill County Middle School,161085,A1,34,9.9
+20212022,33,ESTILL,161,Estill County,90,Estill County High School,161090,A1,36,9.7
+20212022,33,ESTILL,161,Estill County,220,South Irvine Early Learning Center,161220,A4,9,8.3
+20212022,33,ESTILL,161,Estill County,280,West Irvine Intermediate,161280,A1,19,7.9
+20212022,10,BOYD,162,Fairview Independent,11,Fairview Elementary School,162011,A1,14,11.5
+20212022,10,BOYD,162,Fairview Independent,20,Fairview High School,162020,A1,26,8.6
+20212022,34,FAYETTE,165,Fayette County,5,Arlington Elementary School,165005,A1,22,7.0
+20212022,34,FAYETTE,165,Fayette County,7,Ashland Elementary School,165007,A1,22,10.1
+20212022,34,FAYETTE,165,Fayette County,12,Veterans Park Elementary School,165012,A1,43,16.2
+20212022,34,FAYETTE,165,Fayette County,15,Beaumont Middle School,165015,A1,58,13.4
+20212022,34,FAYETTE,165,Fayette County,18,Scapa At Bluegrass,165018,A1,28,15.8
+20212022,34,FAYETTE,165,Fayette County,21,Martin L King Acad for Excellence Alt,165021,A5,20,14.2
+20212022,34,FAYETTE,165,Fayette County,25,Crawford Middle School,165025,A1,57,11.8
+20212022,34,FAYETTE,165,Fayette County,30,Bryan Station Middle School,165030,A1,53,13.6
+20212022,34,FAYETTE,165,Fayette County,32,Cassidy Elementary School,165032,A1,40,12.3
+20212022,34,FAYETTE,165,Fayette County,34,Edythe Jones Hayes Middle School,165034,A1,79,12.1
+20212022,34,FAYETTE,165,Fayette County,35,Deep Springs Elementary School,165035,A1,32,8.4
+20212022,34,FAYETTE,165,Fayette County,36,Dixie Elementary Magnet School,165036,A1,31,13.4
+20212022,34,FAYETTE,165,Fayette County,37,Garden Springs Elementary School,165037,A1,26,14.3
+20212022,34,FAYETTE,165,Fayette County,38,Harrison Elementary School,165038,A1,19,11.5
+20212022,34,FAYETTE,165,Fayette County,39,Henry Clay High School,165039,A1,123,15.5
+20212022,34,FAYETTE,165,Fayette County,45,Athens-Chilesburg Elementary,165045,A1,27,15.6
+20212022,34,FAYETTE,165,Fayette County,52,Rosa Parks Elementary School,165052,A1,36,12.8
+20212022,34,FAYETTE,165,Fayette County,54,The Stables,165054,A5,4,12.0
+20212022,34,FAYETTE,165,Fayette County,55,Booker T Washington Elementary School,165055,A1,18,9.0
+20212022,34,FAYETTE,165,Fayette County,56,William Wells Brown Elementary,165056,A1,18,7.3
+20212022,34,FAYETTE,165,Fayette County,57,Liberty Elementary,165057,A1,37,14.2
+20212022,34,FAYETTE,165,Fayette County,58,Sandersville Elementary,165058,A1,37,15.3
+20212022,34,FAYETTE,165,Fayette County,59,Wellington Elementary,165059,A1,35,10.7
+20212022,34,FAYETTE,165,Fayette County,60,Lafayette High School,165060,A1,136,12.8
+20212022,34,FAYETTE,165,Fayette County,62,Lansdowne Elementary School,165062,A1,34,10.0
+20212022,34,FAYETTE,165,Fayette County,65,Leestown Middle School,165065,A1,68,13.4
+20212022,34,FAYETTE,165,Fayette County,66,Family Care Center,165066,A5,4,20.3
+20212022,34,FAYETTE,165,Fayette County,67,Lexington Trad Magnet School,165067,A1,33,9.7
+20212022,34,FAYETTE,165,Fayette County,68,Locust Trace AgriScience Center,165068,A2,15,12.7
+20212022,34,FAYETTE,165,Fayette County,72,Madeline M Breckinridge Elem School,165072,A1,35,6.8
+20212022,34,FAYETTE,165,Fayette County,74,Maxwell Spanish Immersion Elem School,165074,A1,28,16.4
+20212022,34,FAYETTE,165,Fayette County,76,Morton Middle School,165076,A1,52,14.0
+20212022,34,FAYETTE,165,Fayette County,77,Northern Elementary School,165077,A1,29,8.7
+20212022,34,FAYETTE,165,Fayette County,79,Fayette County Preschool Center,165079,A4,4,12.5
+20212022,34,FAYETTE,165,Fayette County,80,Picadome Elementary School,165080,A1,30,9.6
+20212022,34,FAYETTE,165,Fayette County,81,Southern Elementary School,165081,A1,29,12.3
+20212022,34,FAYETTE,165,Fayette County,82,Squires Elementary School,165082,A1,25,16.0
+20212022,34,FAYETTE,165,Fayette County,85,Stonewall Elementary School,165085,A1,38,13.1
+20212022,34,FAYETTE,165,Fayette County,90,Russell Cave Elementary School,165090,A1,19,9.5
+20212022,34,FAYETTE,165,Fayette County,95,Tates Creek Elementary School,165095,A1,39,9.3
+20212022,34,FAYETTE,165,Fayette County,98,Coventry Oak Elementary,165098,A1,31,4.1
+20212022,34,FAYETTE,165,Fayette County,99,Garrett Morgan Elementary,165099,A1,39,9.6
+20212022,34,FAYETTE,165,Fayette County,100,Tates Creek Middle School,165100,A1,61,12.4
+20212022,34,FAYETTE,165,Fayette County,105,Tates Creek High School,165105,A1,108,12.0
+20212022,34,FAYETTE,165,Fayette County,106,Rise STEM Academy for Girls,165106,A5,12,4.0
+20212022,34,FAYETTE,165,Fayette County,120,Clays Mill Elementary School,165120,A1,31,18.5
+20212022,34,FAYETTE,165,Fayette County,125,Frederick Douglass High School,165125,A1,100,10.0
+20212022,34,FAYETTE,165,Fayette County,130,STEAM Academy,165130,A5,18,10.7
+20212022,34,FAYETTE,165,Fayette County,133,Success Academy,165133,A5,6,19.3
+20212022,34,FAYETTE,165,Fayette County,140,Yates Elementary School,165140,A1,26,7.2
+20212022,34,FAYETTE,165,Fayette County,150,Glendover Elementary School,165150,A1,34,15.1
+20212022,34,FAYETTE,165,Fayette County,160,Meadowthorpe Elementary School,165160,A1,26,12.8
+20212022,34,FAYETTE,165,Fayette County,170,Bryan Station High School,165170,A1,116,12.0
+20212022,34,FAYETTE,165,Fayette County,180,Mary Todd Elementary School,165180,A1,22,10.0
+20212022,34,FAYETTE,165,Fayette County,190,James Lane Allen Elementary School,165190,A1,31,14.8
+20212022,34,FAYETTE,165,Fayette County,200,Paul Laurence Dunbar High School,165200,A1,114,14.6
+20212022,34,FAYETTE,165,Fayette County,225,Jessie M Clark Middle School,165225,A1,72,14.6
+20212022,34,FAYETTE,165,Fayette County,240,Cardinal Valley Elementary School,165240,A1,35,9.9
+20212022,34,FAYETTE,165,Fayette County,245,Winburn Middle School,165245,A1,68,10.9
+20212022,34,FAYETTE,165,Fayette County,255,Millcreek Elementary School,165255,A1,31,5.9
+20212022,34,FAYETTE,165,Fayette County,270,Carter G. Woodson Preparatory Academy,165270,A5,10,5.7
+20212022,34,FAYETTE,165,Fayette County,275,Carter G. Woodson Academy,165275,A5,32,10.0
+20212022,34,FAYETTE,165,Fayette County,525,Southern Middle School,165525,A1,54,13.0
+20212022,34,FAYETTE,165,Fayette County,531,Brenda Cowan Elementary,165531,A1,34,9.3
+20212022,34,FAYETTE,165,Fayette County,620,Julius Marks Elementary School,165620,A1,32,12.3
+20212022,34,FAYETTE,165,Fayette County,645,FCPS Virtual Academy,165645,A5,28,9.1
+20212022,34,FAYETTE,165,Fayette County,651,Audrey Grevious Center,165651,A6,4,16.0
+20212022,34,FAYETTE,165,Fayette County,887,Fayette Pre-School,165887,A4,1,3.0
+20212022,34,FAYETTE,165,Fayette County,898,Fayette County Learning Center,165898,A5,24,11.6
+20212022,34,FAYETTE,165,Fayette County,904,Southside Technical Center,165904,A2,11,24.5
+20212022,34,FAYETTE,165,Fayette County,905,Eastside Technical Center,165905,A2,9,25.6
+20212022,35,FLEMING,171,Fleming County,20,Ewing Elementary School,171020,A1,21,12.7
+20212022,35,FLEMING,171,Fleming County,30,Simons Middle School,171030,A1,25,10.7
+20212022,35,FLEMING,171,Fleming County,35,Fleming County High School,171035,A1,45,11.6
+20212022,35,FLEMING,171,Fleming County,40,Flemingsburg Elementary School,171040,A1,28,14.2
+20212022,35,FLEMING,171,Fleming County,50,E P Ward Elementary School,171050,A1,15,14.0
+20212022,35,FLEMING,171,Fleming County,60,Hillsboro Elementary School,171060,A1,14,14.3
+20212022,36,FLOYD,175,Floyd County,10,Duff-Allen Central Elementary,175010,A1,34,9.1
+20212022,36,FLOYD,175,Floyd County,19,Prestonsburg Elementary School,175019,A1,42,9.2
+20212022,36,FLOYD,175,Floyd County,20,Allen Elementary School,175020,A1,24,11.1
+20212022,36,FLOYD,175,Floyd County,21,May Valley Elementary School,175021,A1,20,13.9
+20212022,36,FLOYD,175,Floyd County,30,South Floyd Elementary School,175030,A1,33,12.6
+20212022,36,FLOYD,175,Floyd County,50,Renaissance Learning Center,175050,A5,24,13.0
+20212022,36,FLOYD,175,Floyd County,110,Betsy Layne High School,175110,A1,32,9.6
+20212022,36,FLOYD,175,Floyd County,115,Floyd Central High School,175115,A1,48,10.6
+20212022,36,FLOYD,175,Floyd County,120,Betsy Layne Elementary School,175120,A1,42,11.7
+20212022,36,FLOYD,175,Floyd County,440,James D. Adams Middle School,175440,A1,19,12.6
+20212022,36,FLOYD,175,Floyd County,485,John M. Stumbo Elementary School,175485,A1,20,6.3
+20212022,36,FLOYD,175,Floyd County,850,Prestonsburg High School,175850,A1,39,11.5
+20212022,19,CAMPBELL,176,Fort Thomas Independent,10,Highlands High School,176010,A1,67,16.0
+20212022,19,CAMPBELL,176,Fort Thomas Independent,11,Highlands Middle School,176011,A1,49,16.6
+20212022,19,CAMPBELL,176,Fort Thomas Independent,20,Johnson Elementary School,176020,A1,24,15.0
+20212022,19,CAMPBELL,176,Fort Thomas Independent,30,Moyer Elementary School,176030,A1,27,17.8
+20212022,19,CAMPBELL,176,Fort Thomas Independent,40,Woodfill Elementary School,176040,A1,24,16.1
+20212022,37,FRANKLIN,177,Frankfort Independent,40,Frankfort Early Learning Academy,177040,A4,2,22.5
+20212022,37,FRANKLIN,177,Frankfort Independent,50,Second Street School,177050,A1,28,8.6
+20212022,37,FRANKLIN,177,Frankfort Independent,70,Frankfort High School,177070,A1,25,9.9
+20212022,37,FRANKLIN,177,Frankfort Independent,80,Panther Transition Academy,177080,A5,2,23.0
+20212022,37,FRANKLIN,181,Franklin County,11,The Academy,181011,A6,7,7.9
+20212022,37,FRANKLIN,181,Franklin County,13,Westridge Elementary,181013,A1,21,12.0
+20212022,37,FRANKLIN,181,Franklin County,14,Bridgeport Elementary School,181014,A1,23,12.8
+20212022,37,FRANKLIN,181,Franklin County,15,Bondurant Middle School,181015,A1,39,10.9
+20212022,37,FRANKLIN,181,Franklin County,16,Early Learning Village,181016,A1,19,7.0
+20212022,37,FRANKLIN,181,Franklin County,25,Collins Lane,181025,A1,26,10.9
+20212022,37,FRANKLIN,181,Franklin County,30,Elkhorn Middle School,181030,A1,47,8.6
+20212022,37,FRANKLIN,181,Franklin County,35,Elkhorn Elementary School,181035,A1,21,9.5
+20212022,37,FRANKLIN,181,Franklin County,40,Franklin County High School,181040,A1,65,15.3
+20212022,37,FRANKLIN,181,Franklin County,45,Hearn Elementary,181045,A1,21,11.6
+20212022,37,FRANKLIN,181,Franklin County,50,Peaks Mill Elementary,181050,A1,23,10.7
+20212022,37,FRANKLIN,181,Franklin County,70,Western Hills High School,181070,A1,59,14.0
+20212022,37,FRANKLIN,181,Franklin County,72,William Cofield High School,181072,A5,1,16.0
+20212022,37,FRANKLIN,181,Franklin County,75,Future Forward Education & Career Center,181075,A6,1,26.0
+20212022,38,FULTON,185,Fulton County,15,Fulton County Middle School,185015,A1,9,8.6
+20212022,38,FULTON,185,Fulton County,20,Fulton County Elementary,185020,A1,19,11.2
+20212022,38,FULTON,185,Fulton County,30,Fulton County High School,185030,A1,15,12.1
+20212022,38,FULTON,186,Fulton Independent,18,Fulton Independent School,186018,A1,26,7.3
+20212022,39,GALLATIN,191,Gallatin County,5,Gallatin County Middle School,191005,A1,26,9.1
+20212022,39,GALLATIN,191,Gallatin County,6,Gallatin County Upper Elementary,191006,A1,20,11.2
+20212022,39,GALLATIN,191,Gallatin County,10,Gallatin County Lower Elementary,191010,A1,20,12.0
+20212022,39,GALLATIN,191,Gallatin County,20,Gallatin County High School,191020,A1,28,10.4
+20212022,40,GARRARD,195,Garrard County,50,Camp Dick Robinson Elementary School,195050,A1,28,14.5
+20212022,40,GARRARD,195,Garrard County,60,Garrard County High School,195060,A1,47,12.0
+20212022,40,GARRARD,195,Garrard County,70,Garrard Middle School,195070,A1,43,11.4
+20212022,40,GARRARD,195,Garrard County,90,Paint Lick Elementary School,195090,A1,23,12.0
+20212022,40,GARRARD,195,Garrard County,220,Lancaster Elementary School,195220,A1,31,12.3
+20212022,5,BARREN,197,Glasgow Independent,2,Success Academy,197002,A5,1,12.0
+20212022,5,BARREN,197,Glasgow Independent,13,Highland Elementary School,197013,A1,40,12.7
+20212022,5,BARREN,197,Glasgow Independent,15,Happy Valley Learning Center,197015,A5,4,23.0
+20212022,5,BARREN,197,Glasgow Independent,30,Glasgow High School,197030,A1,43,15.2
+20212022,5,BARREN,197,Glasgow Independent,35,Glasgow Middle School,197035,A1,39,9.9
+20212022,5,BARREN,197,Glasgow Independent,65,South Green Elementary School,197065,A1,38,11.1
+20212022,41,GRANT,201,Grant County,16,Sherman Elementary,201016,A1,23,10.7
+20212022,41,GRANT,201,Grant County,20,Crittenden-Mt. Zion Elementary,201020,A1,26,9.4
+20212022,41,GRANT,201,Grant County,30,Dry Ridge Elementary,201030,A1,23,12.1
+20212022,41,GRANT,201,Grant County,40,Grant County High School,201040,A1,54,11.9
+20212022,41,GRANT,201,Grant County,50,Mason-Corinth Elementary,201050,A1,18,14.1
+20212022,41,GRANT,201,Grant County,80,Grant County Middle School,201080,A1,51,9.0
+20212022,42,GRAVES,205,Graves County,11,Mayfield Youth Development Center,205011,A6,3,22.7
+20212022,42,GRAVES,205,Graves County,12,Gateway Academy High School,205012,A5,1,8.0
+20212022,42,GRAVES,205,Graves County,13,Graves County Central Elementary,205013,A1,25,15.0
+20212022,42,GRAVES,205,Graves County,40,Fancy Farm Elementary School,205040,A1,17,14.6
+20212022,42,GRAVES,205,Graves County,60,Farmington Elementary School,205060,A1,17,15.0
+20212022,42,GRAVES,205,Graves County,100,Graves County Middle School,205100,A1,36,10.4
+20212022,42,GRAVES,205,Graves County,150,Sedalia Elementary School,205150,A1,20,13.9
+20212022,42,GRAVES,205,Graves County,170,Symsonia Elementary School,205170,A1,19,14.7
+20212022,42,GRAVES,205,Graves County,200,Wingo Elementary School,205200,A1,24,9.5
+20212022,42,GRAVES,205,Graves County,215,Graves County High School,205215,A1,69,11.6
+20212022,43,GRAYSON,211,Grayson County,10,H W Wilkey Elementary School,211010,A1,37,10.9
+20212022,43,GRAYSON,211,Grayson County,30,Caneyville Elementary School,211030,A1,31,11.2
+20212022,43,GRAYSON,211,Grayson County,50,Oran P Lawler Elementary School,211050,A1,31,11.0
+20212022,43,GRAYSON,211,Grayson County,80,Clarkson Elementary School,211080,A1,44,13.6
+20212022,43,GRAYSON,211,Grayson County,85,Grayson County High School,211085,A1,76,10.2
+20212022,43,GRAYSON,211,Grayson County,95,Grayson County Middle School,211095,A1,64,11.5
+20212022,43,GRAYSON,211,Grayson County,220,Grayson Co. Alternative Education,211220,A5,1,23.0
+20212022,44,GREEN,215,Green County,30,Green County Primary School,215030,A1,21,11.0
+20212022,44,GREEN,215,Green County,40,Green County Intermediate School,215040,A1,24,12.8
+20212022,44,GREEN,215,Green County,55,Green County Middle School,215055,A1,34,10.4
+20212022,44,GREEN,215,Green County,65,Green County High School,215065,A1,32,12.6
+20212022,45,GREENUP,221,Greenup County,10,Argillite Elementary School,221010,A1,15,10.1
+20212022,45,GREENUP,221,Greenup County,24,Wurtland Middle School,221024,A1,21,11.5
+20212022,45,GREENUP,221,Greenup County,27,Greenup County High School,221027,A1,44,10.1
+20212022,45,GREENUP,221,Greenup County,40,Greysbranch Elementary School,221040,A1,18,10.1
+20212022,45,GREENUP,221,Greenup County,60,Mckell Elementary School,221060,A1,27,11.0
+20212022,45,GREENUP,221,Greenup County,105,Mckell Middle School,221105,A1,23,7.0
+20212022,45,GREENUP,221,Greenup County,110,Wurtland Elementary School,221110,A1,15,6.9
+20212022,46,HANCOCK,225,Hancock County,5,Hancock County High School,225005,A1,37,13.2
+20212022,46,HANCOCK,225,Hancock County,6,North Hancock Elementary School,225006,A1,26,15.2
+20212022,46,HANCOCK,225,Hancock County,7,Hancock County Middle School,225007,A1,31,13.6
+20212022,46,HANCOCK,225,Hancock County,70,South Hancock Elementary School,225070,A1,14,10.4
+20212022,47,HARDIN,231,Hardin County,5,East Hardin Middle School,231005,A1,43,13.6
+20212022,47,HARDIN,231,Hardin County,8,Woodland Elementary School,231008,A1,24,9.5
+20212022,47,HARDIN,231,Hardin County,13,John Hardin High School,231013,A1,50,15.1
+20212022,47,HARDIN,231,Hardin County,14,Lakewood Elementary School,231014,A1,22,11.7
+20212022,47,HARDIN,231,Hardin County,15,Bluegrass Middle School,231015,A1,40,9.7
+20212022,47,HARDIN,231,Hardin County,17,Creekside Elementary School,231017,A1,22,15.7
+20212022,47,HARDIN,231,Hardin County,18,Heartland Elementary School,231018,A1,30,7.3
+20212022,47,HARDIN,231,Hardin County,20,G C Burkhead Elementary School,231020,A1,40,12.4
+20212022,47,HARDIN,231,Hardin County,21,North Park Elementary School,231021,A1,31,10.8
+20212022,47,HARDIN,231,Hardin County,25,College View Campus,231025,A5,22,9.0
+20212022,47,HARDIN,231,Hardin County,30,Cecilia Valley Elementary School,231030,A1,21,12.7
+20212022,47,HARDIN,231,Hardin County,40,New Highland Elementary School,231040,A1,24,11.7
+20212022,47,HARDIN,231,Hardin County,50,Lincoln Trail Elementary School,231050,A1,30,14.4
+20212022,47,HARDIN,231,Hardin County,70,Early College and Career Center,231070,A2,19,13.6
+20212022,47,HARDIN,231,Hardin County,75,North Hardin High School,231075,A1,83,10.4
+20212022,47,HARDIN,231,Hardin County,77,James T Alton Middle School,231077,A1,36,11.6
+20212022,47,HARDIN,231,Hardin County,79,Radcliff Elementary School,231079,A1,21,7.1
+20212022,47,HARDIN,231,Hardin County,80,North Middle School,231080,A1,36,8.1
+20212022,47,HARDIN,231,Hardin County,90,Rineyville Elementary School,231090,A1,31,10.3
+20212022,47,HARDIN,231,Hardin County,165,Vine Grove Elementary School,231165,A1,29,10.4
+20212022,47,HARDIN,231,Hardin County,168,West Hardin Middle School,231168,A1,37,12.0
+20212022,47,HARDIN,231,Hardin County,180,Hardin County Day Treatment Center,231180,A6,1,19.0
+20212022,47,HARDIN,231,Hardin County,190,Central Hardin High School,231190,A1,92,13.3
+20212022,47,HARDIN,231,Hardin County,210,Meadow View Elementary School,231210,A1,24,11.8
+20212022,47,HARDIN,231,Hardin County,979,Lincoln Trail Behavioral Health Systems,231979,A6,3,19.3
+20212022,47,HARDIN,231,Hardin County,982,Spectrum Care Academy,231982,A5,1,22.0
+20212022,48,HARLAN,235,Harlan County,25,Harlan County High School,235025,A1,65,15.0
+20212022,48,HARLAN,235,Harlan County,60,Black Mountain Elementary School,235060,A1,22,9.4
+20212022,48,HARLAN,235,Harlan County,110,Cawood Elementary School,235110,A1,17,13.5
+20212022,48,HARLAN,235,Harlan County,195,Cumberland Elementary School,235195,A1,27,11.2
+20212022,48,HARLAN,235,Harlan County,290,Evarts Elementary School,235290,A1,23,10.0
+20212022,48,HARLAN,235,Harlan County,325,Green Hills Elementary School,235325,A1,15,15.5
+20212022,48,HARLAN,235,Harlan County,340,James A. Cawood Elementary,235340,A1,23,11.3
+20212022,48,HARLAN,235,Harlan County,540,Rosspoint Elementary School,235540,A1,27,16.6
+20212022,48,HARLAN,235,Harlan County,640,Wallins Elementary School,235640,A1,26,14.0
+20212022,48,HARLAN,236,Harlan Independent,20,Harlan Elementary School,236020,A1,18,11.8
+20212022,48,HARLAN,236,Harlan Independent,21,Sunshine School,236021,A4,2,14.0
+20212022,48,HARLAN,236,Harlan Independent,30,Harlan High School,236030,A1,29,13.3
+20212022,49,HARRISON,241,Harrison County,35,Eastside Elementary School,241035,A1,21,11.1
+20212022,49,HARRISON,241,Harrison County,37,Harrison County Learning Center,241037,A5,1,23.0
+20212022,49,HARRISON,241,Harrison County,38,Southside Elementary School,241038,A1,20,9.2
+20212022,49,HARRISON,241,Harrison County,40,Harrison County High School,241040,A1,49,15.1
+20212022,49,HARRISON,241,Harrison County,43,Harrison County Middle School,241043,A1,38,14.5
+20212022,49,HARRISON,241,Harrison County,45,Northside Elementary School,241045,A1,21,14.4
+20212022,49,HARRISON,241,Harrison County,75,Westside Elementary School,241075,A1,21,14.2
+20212022,50,HART,245,Hart County,10,Bonnieville Elementary School,245010,A1,18,13.3
+20212022,50,HART,245,Hart County,30,Cub Run Elementary School,245030,A1,14,12.0
+20212022,50,HART,245,Hart County,45,Hart County High School,245045,A1,46,13.2
+20212022,50,HART,245,Hart County,50,Legrande Elementary School,245050,A1,20,9.3
+20212022,50,HART,245,Hart County,70,Memorial Elementary School,245070,A1,21,11.7
+20212022,50,HART,245,Hart County,90,Munfordville Elementary School,245090,A1,30,10.2
+20212022,97,PERRY,246,Hazard Independent,10,Hazard High School,246010,A1,27,12.6
+20212022,97,PERRY,246,Hazard Independent,45,Hazard Middle School,246045,A1,26,11.1
+20212022,97,PERRY,246,Hazard Independent,60,Roy G. Eversole Elementary School,246060,A1,21,8.5
+20212022,51,HENDERSON,251,Henderson County,10,Bend Gate Elementary School,251010,A1,30,12.1
+20212022,51,HENDERSON,251,Henderson County,15,The Central Academy,251015,A5,12,15.9
+20212022,51,HENDERSON,251,Henderson County,20,Cairo Elementary School,251020,A1,22,15.0
+20212022,51,HENDERSON,251,Henderson County,30,A B Chandler Elementary School,251030,A1,22,16.6
+20212022,51,HENDERSON,251,Henderson County,33,East Heights Elementary School,251033,A1,33,11.5
+20212022,51,HENDERSON,251,Henderson County,60,Henderson County High School,251060,A1,119,13.3
+20212022,51,HENDERSON,251,Henderson County,65,Henderson County North Middle School,251065,A1,55,11.1
+20212022,51,HENDERSON,251,Henderson County,70,Niagara Elementary School,251070,A1,20,11.6
+20212022,51,HENDERSON,251,Henderson County,80,Thelma B. Johnson Early Learning Center,251080,A4,15,8.1
+20212022,51,HENDERSON,251,Henderson County,91,South Heights Elementary School,251091,A1,25,11.4
+20212022,51,HENDERSON,251,Henderson County,110,Spottsville Elementary School,251110,A1,36,12.3
+20212022,51,HENDERSON,251,Henderson County,150,Henderson County South Middle School,251150,A1,55,9.7
+20212022,51,HENDERSON,251,Henderson County,160,Jefferson Elementary School,251160,A1,29,9.1
+20212022,52,HENRY,255,Henry County,5,Henry County Early Childhood,255005,A4,5,13.0
+20212022,52,HENRY,255,Henry County,10,Campbellsburg Elementary School,255010,A1,18,7.1
+20212022,52,HENRY,255,Henry County,20,Eastern Elementary School,255020,A1,14,10.3
+20212022,52,HENRY,255,Henry County,35,Henry County High School,255035,A1,44,12.5
+20212022,52,HENRY,255,Henry County,38,Henry County Middle School,255038,A1,31,8.7
+20212022,52,HENRY,255,Henry County,40,New Castle Elementary School,255040,A1,21,9.7
+20212022,53,HICKMAN,261,Hickman County,20,Hickman County Elementary School,261020,A1,30,14.0
+20212022,53,HICKMAN,261,Hickman County,50,Hickman County High School,261050,A1,24,13.2
+20212022,54,HOPKINS,265,Hopkins County,5,Hopkins County Day Treatment,265005,A6,2,17.5
+20212022,54,HOPKINS,265,Hopkins County,6,West Hopkins School,265006,A1,32,12.3
+20212022,54,HOPKINS,265,Hopkins County,20,Jesse Stuart Elementary School,265020,A1,23,10.3
+20212022,54,HOPKINS,265,Hopkins County,75,James Madison Middle School,265075,A1,31,12.1
+20212022,54,HOPKINS,265,Hopkins County,90,Grapevine Elementary School,265090,A1,24,10.4
+20212022,54,HOPKINS,265,Hopkins County,105,Hopkins Co Career & Technology Center,265105,A2,6,10.0
+20212022,54,HOPKINS,265,Hopkins County,110,Hanson Elementary School,265110,A1,29,12.9
+20212022,54,HOPKINS,265,Hopkins County,130,Hopkins County Central High School,265130,A1,54,11.0
+20212022,54,HOPKINS,265,Hopkins County,140,Browning Springs Middle School,265140,A1,35,6.9
+20212022,54,HOPKINS,265,Hopkins County,145,Madisonville North Hopkins High School,265145,A1,73,10.6
+20212022,54,HOPKINS,265,Hopkins County,185,South Hopkins Middle School,265185,A1,31,10.2
+20212022,54,HOPKINS,265,Hopkins County,200,Pride Elementary School,265200,A1,29,9.8
+20212022,54,HOPKINS,265,Hopkins County,250,West Broadway Elementary School,265250,A1,26,14.3
+20212022,54,HOPKINS,265,Hopkins County,280,Southside Elementary School,265280,A1,25,9.4
+20212022,54,HOPKINS,265,Hopkins County,330,Earlington Elementary School,265330,A1,23,9.5
+20212022,55,JACKSON,271,Jackson County,20,Jackson County High School,271020,A1,34,12.9
+20212022,55,JACKSON,271,Jackson County,25,Jackson County Middle School,271025,A1,31,12.8
+20212022,55,JACKSON,271,Jackson County,27,Barnabus Home Middle School,271027,A6,1,24.0
+20212022,55,JACKSON,271,Jackson County,29,Barnabus Home High School,271029,A6,1,24.0
+20212022,55,JACKSON,271,Jackson County,31,Jackson Co Schools Learning Center,271031,A5,1,3.0
+20212022,55,JACKSON,271,Jackson County,180,McKee Elementary School,271180,A1,24,13.9
+20212022,55,JACKSON,271,Jackson County,280,Sand Gap Elementary School,271280,A1,21,14.3
+20212022,55,JACKSON,271,Jackson County,340,Tyner Elementary School,271340,A1,28,12.4
+20212022,13,BREATHITT,272,Jackson Independent,11,Jackson City School,272011,A1,21,14.7
+20212022,56,JEFFERSON,275,Jefferson County,4,Camp Taylor Elementary,275004,A1,27,13.7
+20212022,56,JEFFERSON,275,Jefferson County,5,Cane Run Elementary,275005,A1,20,7.8
+20212022,56,JEFFERSON,275,Jefferson County,7,Eastern High,275007,A1,113,16.2
+20212022,56,JEFFERSON,275,Jefferson County,10,Fairdale Elementary,275010,A1,34,9.1
+20212022,56,JEFFERSON,275,Jefferson County,11,Fern Creek Elementary,275011,A1,41,12.8
+20212022,56,JEFFERSON,275,Jefferson County,12,Fern Creek High,275012,A1,101,11.5
+20212022,56,JEFFERSON,275,Jefferson County,13,Greathouse/Shryock Traditional,275013,A1,32,13.3
+20212022,56,JEFFERSON,275,Jefferson County,14,Greenwood Elementary,275014,A1,23,10.4
+20212022,56,JEFFERSON,275,Jefferson County,16,Tully Elementary,275016,A1,42,15.0
+20212022,56,JEFFERSON,275,Jefferson County,18,Atherton High,275018,A1,76,17.4
+20212022,56,JEFFERSON,275,Jefferson County,19,The Brook-Dupont,275019,A6,4,17.0
+20212022,56,JEFFERSON,275,Jefferson County,20,The Brook-KMI,275020,A6,5,16.4
+20212022,56,JEFFERSON,275,Jefferson County,22,Medora Elementary,275022,A1,24,12.0
+20212022,56,JEFFERSON,275,Jefferson County,24,Middletown Elementary,275024,A1,31,17.7
+20212022,56,JEFFERSON,275,Jefferson County,27,Okolona Elementary,275027,A1,22,11.2
+20212022,56,JEFFERSON,275,Jefferson County,28,Boys & Girls Haven,275028,A6,4,12.5
+20212022,56,JEFFERSON,275,Jefferson County,29,St Joseph Children's Home,275029,A6,5,14.2
+20212022,56,JEFFERSON,275,Jefferson County,30,Liberty High,275030,A5,29,13.6
+20212022,56,JEFFERSON,275,Jefferson County,31,Southern High,275031,A1,81,10.6
+20212022,56,JEFFERSON,275,Jefferson County,33,Valley High,275033,A1,53,10.2
+20212022,56,JEFFERSON,275,Jefferson County,34,Waller-Williams Environmental,275034,A3,17,7.7
+20212022,56,JEFFERSON,275,Jefferson County,37,Dawson Orman Education Center,275037,A4,9,7.2
+20212022,56,JEFFERSON,275,Jefferson County,38,Breckinridge-Franklin Elementary,275038,A1,23,12.6
+20212022,56,JEFFERSON,275,Jefferson County,40,Barret Traditional Middle,275040,A1,33,14.4
+20212022,56,JEFFERSON,275,Jefferson County,41,Newburg Middle,275041,A1,59,8.5
+20212022,56,JEFFERSON,275,Jefferson County,44,Audubon Traditional Elementary,275044,A1,29,17.2
+20212022,56,JEFFERSON,275,Jefferson County,45,Butler Traditional High,275045,A1,91,13.1
+20212022,56,JEFFERSON,275,Jefferson County,46,Chenoweth Elementary,275046,A1,26,15.6
+20212022,56,JEFFERSON,275,Jefferson County,47,Louisville Male High,275047,A1,101,16.6
+20212022,56,JEFFERSON,275,Jefferson County,48,Hawthorne Elementary,275048,A1,27,11.3
+20212022,56,JEFFERSON,275,Jefferson County,49,Farnsley Middle,275049,A1,56,11.0
+20212022,56,JEFFERSON,275,Jefferson County,50,Georgia Chaffee Teenage Parent Program,275050,A5,18,9.6
+20212022,56,JEFFERSON,275,Jefferson County,51,Waggener High,275051,A1,60,11.9
+20212022,56,JEFFERSON,275,Jefferson County,55,Bates Elementary,275055,A1,28,14.6
+20212022,56,JEFFERSON,275,Jefferson County,57,Fairdale High,275057,A1,91,10.5
+20212022,56,JEFFERSON,275,Jefferson County,59,Kenwood Elementary,275059,A1,31,13.0
+20212022,56,JEFFERSON,275,Jefferson County,60,Coral Ridge Elementary,275060,A1,31,11.6
+20212022,56,JEFFERSON,275,Jefferson County,61,Goldsmith Elementary,275061,A1,31,15.0
+20212022,56,JEFFERSON,275,Jefferson County,63,Schaffner Traditional Elementary,275063,A1,30,13.3
+20212022,56,JEFFERSON,275,Jefferson County,64,St Matthews Elementary,275064,A1,29,18.1
+20212022,56,JEFFERSON,275,Jefferson County,65,Jeffersontown High,275065,A1,68,14.4
+20212022,56,JEFFERSON,275,Jefferson County,66,Wilkerson Elementary School,275066,A1,25,9.5
+20212022,56,JEFFERSON,275,Jefferson County,67,Wilder Elementary,275067,A1,33,13.1
+20212022,56,JEFFERSON,275,Jefferson County,69,Watson Lane Elementary,275069,A1,18,6.9
+20212022,56,JEFFERSON,275,Jefferson County,70,DuValle Education Center,275070,A4,13,8.2
+20212022,56,JEFFERSON,275,Jefferson County,71,Stonestreet Elementary,275071,A1,27,11.4
+20212022,56,JEFFERSON,275,Jefferson County,72,Watterson Elementary,275072,A1,27,11.2
+20212022,56,JEFFERSON,275,Jefferson County,73,Seneca High,275073,A1,88,11.7
+20212022,56,JEFFERSON,275,Jefferson County,75,Pleasure Ridge Park High,275075,A1,94,13.9
+20212022,56,JEFFERSON,275,Jefferson County,76,Indian Trail Elementary,275076,A1,26,11.0
+20212022,56,JEFFERSON,275,Jefferson County,77,Westport Middle,275077,A1,84,10.4
+20212022,56,JEFFERSON,275,Jefferson County,78,Zachary Taylor Elementary,275078,A1,23,11.2
+20212022,56,JEFFERSON,275,Jefferson County,79,Kerrick Elementary,275079,A1,23,7.2
+20212022,56,JEFFERSON,275,Jefferson County,81,Rangeland Elementary,275081,A1,25,7.2
+20212022,56,JEFFERSON,275,Jefferson County,82,Dixie Elementary,275082,A1,20,12.9
+20212022,56,JEFFERSON,275,Jefferson County,83,Cochrane Elementary,275083,A1,29,10.1
+20212022,56,JEFFERSON,275,Jefferson County,84,Western High,275084,A1,58,8.2
+20212022,56,JEFFERSON,275,Jefferson County,85,Robert Frost Sixth-Grade Academy,275085,A1,25,11.4
+20212022,56,JEFFERSON,275,Jefferson County,86,Sanders Elementary,275086,A1,23,9.5
+20212022,56,JEFFERSON,275,Jefferson County,87,Smyrna Elementary School,275087,A1,26,9.8
+20212022,56,JEFFERSON,275,Jefferson County,90,Thomas Jefferson Middle,275090,A1,60,6.7
+20212022,56,JEFFERSON,275,Jefferson County,91,Blue Lick Elementary,275091,A1,26,10.2
+20212022,56,JEFFERSON,275,Jefferson County,92,Crums Lane Elementary,275092,A1,27,13.3
+20212022,56,JEFFERSON,275,Jefferson County,94,Bowen Elementary,275094,A1,38,18.3
+20212022,56,JEFFERSON,275,Jefferson County,95,Hite Elementary,275095,A1,26,14.3
+20212022,56,JEFFERSON,275,Jefferson County,96,Norton Elementary,275096,A1,40,17.0
+20212022,56,JEFFERSON,275,Jefferson County,97,Shacklette Elementary,275097,A1,25,9.2
+20212022,56,JEFFERSON,275,Jefferson County,99,Minors Lane Elementary,275099,A1,20,9.4
+20212022,56,JEFFERSON,275,Jefferson County,100,Doss High,275100,A1,70,9.8
+20212022,56,JEFFERSON,275,Jefferson County,102,Chancey Elementary,275102,A1,29,13.8
+20212022,56,JEFFERSON,275,Jefferson County,103,Slaughter Elementary,275103,A1,33,10.9
+20212022,56,JEFFERSON,275,Jefferson County,104,Trunnell Elementary,275104,A1,26,10.7
+20212022,56,JEFFERSON,275,Jefferson County,105,Ballard High,275105,A1,109,14.8
+20212022,56,JEFFERSON,275,Jefferson County,106,Johnsontown Road Elementary,275106,A1,19,10.9
+20212022,56,JEFFERSON,275,Jefferson County,107,Luhr Elementary,275107,A1,26,17.0
+20212022,56,JEFFERSON,275,Jefferson County,109,Wheeler Elementary,275109,A1,31,13.8
+20212022,56,JEFFERSON,275,Jefferson County,110,Western Day Treatment,275110,A6,4,12.5
+20212022,56,JEFFERSON,275,Jefferson County,115,Gutermuth Elementary,275115,A1,21,13.1
+20212022,56,JEFFERSON,275,Jefferson County,116,Wellington Elementary,275116,A1,25,8.8
+20212022,56,JEFFERSON,275,Jefferson County,117,Wilt Elementary,275117,A1,24,12.8
+20212022,56,JEFFERSON,275,Jefferson County,119,Crosby Middle,275119,A1,57,14.6
+20212022,56,JEFFERSON,275,Jefferson County,121,Hartstern Elementary,275121,A1,25,10.4
+20212022,56,JEFFERSON,275,Jefferson County,124,U of L PACT Program,275124,A3,2,10.5
+20212022,56,JEFFERSON,275,Jefferson County,126,Layne Elementary,275126,A1,21,11.1
+20212022,56,JEFFERSON,275,Jefferson County,127,Auburndale Elementary,275127,A1,31,11.3
+20212022,56,JEFFERSON,275,Jefferson County,128,Price Elementary,275128,A1,27,8.6
+20212022,56,JEFFERSON,275,Jefferson County,129,Breckinridge Metropolitan High,275129,A5,25,15.8
+20212022,56,JEFFERSON,275,Jefferson County,131,Eisenhower Elementary,275131,A1,30,14.2
+20212022,56,JEFFERSON,275,Jefferson County,133,Lassiter Middle,275133,A1,57,10.2
+20212022,56,JEFFERSON,275,Jefferson County,134,Klondike Lane Elementary,275134,A1,26,11.6
+20212022,56,JEFFERSON,275,Jefferson County,138,Louisville Day,275138,A6,6,12.2
+20212022,56,JEFFERSON,275,Jefferson County,144,Stuart Academy,275144,A1,52,8.2
+20212022,56,JEFFERSON,275,Jefferson County,145,Laukhuf Elementary,275145,A1,29,13.3
+20212022,56,JEFFERSON,275,Jefferson County,146,Lowe Elementary,275146,A1,31,17.6
+20212022,56,JEFFERSON,275,Jefferson County,147,Mill Creek Elementary,275147,A1,25,7.3
+20212022,56,JEFFERSON,275,Jefferson County,149,Blake Elementary,275149,A1,27,6.9
+20212022,56,JEFFERSON,275,Jefferson County,155,Marion C. Moore School,275155,A1,134,9.5
+20212022,56,JEFFERSON,275,Jefferson County,156,Dunn Elementary,275156,A1,24,16.3
+20212022,56,JEFFERSON,275,Jefferson County,162,Kammerer Middle,275162,A1,49,13.2
+20212022,56,JEFFERSON,275,Jefferson County,163,Knight Middle,275163,A1,27,7.1
+20212022,56,JEFFERSON,275,Jefferson County,164,Conway Middle,275164,A1,46,10.8
+20212022,56,JEFFERSON,275,Jefferson County,165,J. Graham Brown School,275165,A1,48,14.9
+20212022,56,JEFFERSON,275,Jefferson County,166,Jeffersontown Elementary,275166,A1,37,12.6
+20212022,56,JEFFERSON,275,Jefferson County,167,Carrithers Middle,275167,A1,40,10.9
+20212022,56,JEFFERSON,275,Jefferson County,175,Alex R. Kennedy Elementary,275175,A1,18,12.3
+20212022,56,JEFFERSON,275,Jefferson County,179,Central High Magnet Career Academy,275179,A1,85,14.7
+20212022,56,JEFFERSON,275,Jefferson County,182,Wheatley Elementary,275182,A1,25,8.8
+20212022,56,JEFFERSON,275,Jefferson County,183,Binet School,275183,A3,10,10.4
+20212022,56,JEFFERSON,275,Jefferson County,185,Atkinson Academy,275185,A1,24,7.5
+20212022,56,JEFFERSON,275,Jefferson County,186,Newcomer Academy,275186,A5,45,12.0
+20212022,56,JEFFERSON,275,Jefferson County,191,W.E.B. DuBois Academy,275191,A5,38,9.7
+20212022,56,JEFFERSON,275,Jefferson County,193,Mary Jo and William MacDonald Maryhurst,275193,A6,13,9.6
+20212022,56,JEFFERSON,275,Jefferson County,200,duPont Manual High,275200,A1,116,16.9
+20212022,56,JEFFERSON,275,Jefferson County,201,The Phoenix School of Discovery,275201,A5,41,13.1
+20212022,56,JEFFERSON,275,Jefferson County,202,Minor Daniels Academy,275202,A5,23,11.3
+20212022,56,JEFFERSON,275,Jefferson County,211,Stopher Elementary,275211,A1,39,16.0
+20212022,56,JEFFERSON,275,Jefferson County,212,Farmer Elementary,275212,A1,39,16.7
+20212022,56,JEFFERSON,275,Jefferson County,219,Ramsey Middle,275219,A1,58,9.0
+20212022,56,JEFFERSON,275,Jefferson County,220,Bellewood,275220,A6,5,11.6
+20212022,56,JEFFERSON,275,Jefferson County,221,Brooklawn,275221,A6,18,14.2
+20212022,56,JEFFERSON,275,Jefferson County,222,Westport Early Childhood Center,275222,A4,12,9.9
+20212022,56,JEFFERSON,275,Jefferson County,225,Bloom Elementary,275225,A1,29,18.7
+20212022,56,JEFFERSON,275,Jefferson County,240,Engelhard Elementary,275240,A1,18,9.5
+20212022,56,JEFFERSON,275,Jefferson County,243,Byck Elementary,275243,A1,16,7.8
+20212022,56,JEFFERSON,275,Jefferson County,250,Field Elementary,275250,A1,22,15.9
+20212022,56,JEFFERSON,275,Jefferson County,260,Brandeis Elementary,275260,A1,28,12.3
+20212022,56,JEFFERSON,275,Jefferson County,270,Foster Traditional Academy,275270,A1,28,13.0
+20212022,56,JEFFERSON,275,Jefferson County,290,Frayser Elementary,275290,A1,18,8.0
+20212022,56,JEFFERSON,275,Jefferson County,300,Hazelwood Elementary,275300,A1,29,7.1
+20212022,56,JEFFERSON,275,Jefferson County,320,Highland Middle,275320,A1,49,11.5
+20212022,56,JEFFERSON,275,Jefferson County,323,Cochran Elementary,275323,A1,21,7.0
+20212022,56,JEFFERSON,275,Jefferson County,325,Jacob Elementary,275325,A1,23,10.8
+20212022,56,JEFFERSON,275,Jefferson County,335,Iroquois High,275335,A1,79,11.6
+20212022,56,JEFFERSON,275,Jefferson County,340,Meyzeek Middle,275340,A1,54,13.9
+20212022,56,JEFFERSON,275,Jefferson County,371,Norton Commons Elementary,275371,A1,33,13.3
+20212022,56,JEFFERSON,275,Jefferson County,374,Young Elementary,275374,A1,18,6.8
+20212022,56,JEFFERSON,275,Jefferson County,396,Jefferson County Traditional Middle,275396,A1,49,17.8
+20212022,56,JEFFERSON,275,Jefferson County,432,King Elementary,275432,A1,18,12.3
+20212022,56,JEFFERSON,275,Jefferson County,435,Noe Middle,275435,A1,72,15.2
+20212022,56,JEFFERSON,275,Jefferson County,440,Mcferran Preparatory Academy,275440,A1,40,7.7
+20212022,56,JEFFERSON,275,Jefferson County,456,Ackerly,275456,A6,2,15.5
+20212022,56,JEFFERSON,275,Jefferson County,458,Mary Ryan Academy,275458,A3,6,13.2
+20212022,56,JEFFERSON,275,Jefferson County,463,Jefferson Regional Juvenile Detention Ce,275463,A6,1,18.0
+20212022,56,JEFFERSON,275,Jefferson County,465,Heuser Hearing & Language Academy,275465,A3,5,7.8
+20212022,56,JEFFERSON,275,Jefferson County,470,Johnson Traditional Middle,275470,A1,43,11.1
+20212022,56,JEFFERSON,275,Jefferson County,480,Maupin Elementary,275480,A1,19,5.3
+20212022,56,JEFFERSON,275,Jefferson County,500,Portland Elementary,275500,A1,18,6.1
+20212022,56,JEFFERSON,275,Jefferson County,520,Lincoln Elementary Performing Arts,275520,A1,29,12.0
+20212022,56,JEFFERSON,275,Jefferson County,560,Rutherford Elementary,275560,A1,20,7.0
+20212022,56,JEFFERSON,275,Jefferson County,580,Semple Elementary,275580,A1,32,9.7
+20212022,56,JEFFERSON,275,Jefferson County,590,The Academy @ Shawnee,275590,A1,45,9.6
+20212022,56,JEFFERSON,275,Jefferson County,610,Shelby Traditional Academy,275610,A1,33,10.2
+20212022,56,JEFFERSON,275,Jefferson County,620,Frederick Law Olmsted Academy North,275620,A1,44,9.3
+20212022,56,JEFFERSON,275,Jefferson County,660,Coleridge-Taylor Montessori Elementary,275660,A1,20,5.4
+20212022,56,JEFFERSON,275,Jefferson County,680,Carter Traditional Elementary,275680,A1,30,12.9
+20212022,56,JEFFERSON,275,Jefferson County,710,Western Middle School for the Arts,275710,A1,51,9.9
+20212022,56,JEFFERSON,275,Jefferson County,720,Kennedy Montessori Elementary,275720,A1,24,8.3
+20212022,56,JEFFERSON,275,Jefferson County,730,Frederick Law Olmsted Academy South,275730,A1,51,12.2
+20212022,56,JEFFERSON,275,Jefferson County,769,Home of the Innocents School,275769,A6,7,15.3
+20212022,56,JEFFERSON,275,Jefferson County,784,Peace Academy,275784,A6,21,15.0
+20212022,56,JEFFERSON,275,Jefferson County,800,Grace M. James Academy of Excellence,275800,A5,21,5.1
+20212022,56,JEFFERSON,275,Jefferson County,917,Churchill Park School,275917,A3,21,8.1
+20212022,56,JEFFERSON,275,Jefferson County,919,George Unseld Early Childhood Center,275919,A4,15,8.3
+20212022,56,JEFFERSON,275,Jefferson County,920,Ahrens Educational Resource Center,275920,A3,3,13.3
+20212022,56,JEFFERSON,275,Jefferson County,951,Pathfinder School of Innovation,275951,A5,42,12.9
+20212022,67,LETCHER,276,Jenkins Independent,11,Jenkins Independent School,276011,A1,25,8.5
+20212022,57,JESSAMINE,281,Jessamine County,18,Hattie C. Warner Elementary School,281018,A1,32,9.9
+20212022,57,JESSAMINE,281,Jessamine County,19,West Jessamine High School,281019,A1,93,11.5
+20212022,57,JESSAMINE,281,Jessamine County,21,East Jessamine High School,281021,A1,69,10.8
+20212022,57,JESSAMINE,281,Jessamine County,22,Jessamine Early Learning Village,281022,A1,38,7.4
+20212022,57,JESSAMINE,281,Jessamine County,23,The Providence School,281023,A5,31,8.7
+20212022,57,JESSAMINE,281,Jessamine County,24,Jessamine Career and Technology Center,281024,A2,29,13.4
+20212022,57,JESSAMINE,281,Jessamine County,25,East Jessamine Middle School,281025,A1,66,8.0
+20212022,57,JESSAMINE,281,Jessamine County,26,West Jessamine Middle School,281026,A1,56,10.3
+20212022,57,JESSAMINE,281,Jessamine County,30,Ashgrove Academy,281030,A6,2,19.5
+20212022,57,JESSAMINE,281,Jessamine County,40,Red Oak Elementary School,281040,A1,27,12.0
+20212022,57,JESSAMINE,281,Jessamine County,50,Nicholasville Elementary School,281050,A1,26,11.5
+20212022,57,JESSAMINE,281,Jessamine County,60,Rosenwald Dunbar Elementary School,281060,A1,30,11.6
+20212022,57,JESSAMINE,281,Jessamine County,70,Brookside Elementary School,281070,A1,30,12.7
+20212022,57,JESSAMINE,281,Jessamine County,90,Wilmore Elementary School,281090,A1,29,13.4
+20212022,58,JOHNSON,285,Johnson County,50,Johnson County Eagle Academy,285050,A5,2,20.0
+20212022,58,JOHNSON,285,Johnson County,60,Johnson County Middle School,285060,A1,39,13.7
+20212022,58,JOHNSON,285,Johnson County,75,Central Elementary School,285075,A1,23,10.1
+20212022,58,JOHNSON,285,Johnson County,100,Flat Gap Elementary School,285100,A1,15,12.1
+20212022,58,JOHNSON,285,Johnson County,115,Johnson Central High School,285115,A1,75,13.5
+20212022,58,JOHNSON,285,Johnson County,250,Porter Elementary School,285250,A1,18,11.1
+20212022,58,JOHNSON,285,Johnson County,320,W R Castle Memorial Elementary School,285320,A1,23,13.7
+20212022,58,JOHNSON,285,Johnson County,340,Highland Elementary School,285340,A1,24,11.0
+20212022,59,KENTON,291,Kenton County,5,Beechgrove Elementary School,291005,A1,36,12.0
+20212022,59,KENTON,291,Kenton County,6,River Ridge Elementary School,291006,A1,54,13.1
+20212022,59,KENTON,291,Kenton County,20,James A Caywood Elementary School,291020,A1,31,12.4
+20212022,59,KENTON,291,Kenton County,40,Dixie Heights High School,291040,A1,71,13.1
+20212022,59,KENTON,291,Kenton County,45,R C Hinsdale Elementary School,291045,A1,29,16.4
+20212022,59,KENTON,291,Kenton County,50,Kenton Elementary School,291050,A1,33,12.0
+20212022,59,KENTON,291,Kenton County,55,Northern Ky Youth Dev Center,291055,A6,2,21.5
+20212022,59,KENTON,291,Kenton County,60,Ft Wright Elementary School,291060,A1,31,11.0
+20212022,59,KENTON,291,Kenton County,70,Piner Elementary School,291070,A1,17,15.2
+20212022,59,KENTON,291,Kenton County,80,Ryland Heights Elementary School,291080,A1,24,16.9
+20212022,59,KENTON,291,Kenton County,90,Simon Kenton High School,291090,A1,87,14.4
+20212022,59,KENTON,291,Kenton County,100,Taylor Mill Elementary School,291100,A1,27,10.4
+20212022,59,KENTON,291,Kenton County,103,Turkey Foot Middle School,291103,A1,55,11.8
+20212022,59,KENTON,291,Kenton County,105,Twenhofel Middle School,291105,A1,43,13.5
+20212022,59,KENTON,291,Kenton County,108,Woodland Middle School,291108,A1,40,11.0
+20212022,59,KENTON,291,Kenton County,120,Scott High School,291120,A1,57,12.5
+20212022,59,KENTON,291,Kenton County,475,Summit View Academy,291475,A1,86,11.9
+20212022,59,KENTON,291,Kenton County,495,White's Tower Elementary School,291495,A1,35,10.6
+20212022,60,KNOTT,295,Knott County,35,Beaver Creek Elementary School,295035,A1,14,11.0
+20212022,60,KNOTT,295,Knott County,100,Carr Creek Elementary School,295100,A1,21,13.7
+20212022,60,KNOTT,295,Knott County,150,Cordia School,295150,A1,14,7.4
+20212022,60,KNOTT,295,Knott County,210,Emmalena Elementary School,295210,A1,12,14.4
+20212022,60,KNOTT,295,Knott County,230,Hindman Elementary School,295230,A1,26,10.1
+20212022,60,KNOTT,295,Knott County,255,Jones Fork Elementary School,295255,A1,9,10.6
+20212022,60,KNOTT,295,Knott County,265,Knott County Central High School,295265,A1,38,15.5
+20212022,61,KNOX,301,Knox County,22,Knox Appalachian School,301022,A6,5,17.0
+20212022,61,KNOX,301,Knox County,23,Knox County Middle School,301023,A1,30,12.9
+20212022,61,KNOX,301,Knox County,71,Central Elementary School,301071,A1,24,11.0
+20212022,61,KNOX,301,Knox County,140,Knox County Day Treatment,301140,A6,2,19.5
+20212022,61,KNOX,301,Knox County,150,Knox County Learning Academy,301150,A5,4,11.5
+20212022,61,KNOX,301,Knox County,170,Dewitt Elementary School,301170,A1,8,8.4
+20212022,61,KNOX,301,Knox County,240,Flat Lick Elementary School,301240,A1,12,8.2
+20212022,61,KNOX,301,Knox County,260,Girdler Elementary School,301260,A1,20,7.7
+20212022,61,KNOX,301,Knox County,320,G R Hampton Elementary School,301320,A1,17,11.4
+20212022,61,KNOX,301,Knox County,410,Knox Central High School,301410,A1,47,12.4
+20212022,61,KNOX,301,Knox County,430,Jesse D Lay Elementary School,301430,A1,21,16.7
+20212022,61,KNOX,301,Knox County,450,Lynn Camp Schools,301450,A1,62,9.0
+20212022,62,LARUE,305,LaRue County,5,Preschool on College Street,305005,A4,4,3.0
+20212022,62,LARUE,305,LaRue County,15,Abraham Lincoln Elementary School,305015,A1,25,16.1
+20212022,62,LARUE,305,LaRue County,30,Hodgenville Elementary School,305030,A1,30,14.3
+20212022,62,LARUE,305,LaRue County,40,LaRue County High School,305040,A1,44,13.5
+20212022,62,LARUE,305,LaRue County,45,LaRue County Middle School,305045,A1,32,14.1
+20212022,62,LARUE,305,LaRue County,100,The Life Connection,305100,A6,4,16.8
+20212022,63,LAUREL,311,Laurel County,10,London Elementary School,311010,A1,32,10.3
+20212022,63,LAUREL,311,Laurel County,16,McDaniel Learning Center,311016,A5,3,20.0
+20212022,63,LAUREL,311,Laurel County,18,Wyan-Pine Grove Elementary,311018,A1,29,9.4
+20212022,63,LAUREL,311,Laurel County,19,Laurel County Virtual Academy,311019,A5,1,9.0
+20212022,63,LAUREL,311,Laurel County,30,Bush Elementary School,311030,A1,27,13.7
+20212022,63,LAUREL,311,Laurel County,40,South Laurel Middle School,311040,A1,61,12.3
+20212022,63,LAUREL,311,Laurel County,50,Laurel County Day Treatment,311050,A6,4,18.3
+20212022,63,LAUREL,311,Laurel County,55,Camp Ground Elementary School,311055,A1,17,17.2
+20212022,63,LAUREL,311,Laurel County,60,Laurel Co Schools Center for Innovation,311060,A2,6,7.3
+20212022,63,LAUREL,311,Laurel County,70,Colony Elementary School,311070,A1,19,12.1
+20212022,63,LAUREL,311,Laurel County,130,Hazel Green Elementary School,311130,A1,19,14.9
+20212022,63,LAUREL,311,Laurel County,165,Johnson Elementary School,311165,A1,16,10.8
+20212022,63,LAUREL,311,Laurel County,175,Hunter Hills Elementary School,311175,A1,33,8.6
+20212022,63,LAUREL,311,Laurel County,180,Keavy Elementary School,311180,A1,15,9.9
+20212022,63,LAUREL,311,Laurel County,200,North Laurel Middle School,311200,A1,59,10.7
+20212022,63,LAUREL,311,Laurel County,205,North Laurel High School,311205,A1,80,11.9
+20212022,63,LAUREL,311,Laurel County,210,South Laurel High School,311210,A1,59,10.1
+20212022,63,LAUREL,311,Laurel County,420,Sublimity Elementary School,311420,A1,19,8.9
+20212022,63,LAUREL,311,Laurel County,430,Cold Hill Elementary School,311430,A1,17,12.7
+20212022,64,LAWRENCE,315,Lawrence County,20,Louisa East Elementary School,315020,A1,24,12.5
+20212022,64,LAWRENCE,315,Lawrence County,21,Louisa West Elementary School,315021,A1,17,7.5
+20212022,64,LAWRENCE,315,Lawrence County,30,Blaine Elementary School,315030,A1,22,8.8
+20212022,64,LAWRENCE,315,Lawrence County,150,Fallsburg Elementary School,315150,A1,24,9.5
+20212022,64,LAWRENCE,315,Lawrence County,200,Louisa Middle School,315200,A1,32,10.7
+20212022,64,LAWRENCE,315,Lawrence County,260,Lawrence County High School,315260,A1,55,11.0
+20212022,65,LEE,321,Lee County,60,Lee County Middle High School,321060,A1,31,12.3
+20212022,65,LEE,321,Lee County,100,Lee County Elementary School,321100,A1,25,11.2
+20212022,66,LESLIE,325,Leslie County,280,Hayes Lewis Elementary School,325280,A1,7,14.4
+20212022,66,LESLIE,325,Leslie County,300,Mountain View Elementary,325300,A1,16,14.6
+20212022,66,LESLIE,325,Leslie County,350,Leslie County High School,325350,A1,25,14.2
+20212022,66,LESLIE,325,Leslie County,420,W B Muncy Elementary School,325420,A1,10,13.8
+20212022,66,LESLIE,325,Leslie County,570,Stinnett Elementary School,325570,A1,17,16.7
+20212022,67,LETCHER,331,Letcher County,50,Letcher Elementary & Middle School,331050,A1,22,11.2
+20212022,67,LETCHER,331,Letcher County,55,Letcher County Alternative Education Ctr,331055,A5,1,8.0
+20212022,67,LETCHER,331,Letcher County,56,Letcher County Central High School,331056,A1,51,11.6
+20212022,67,LETCHER,331,Letcher County,210,Arlie Boggs Elementary School,331210,A1,9,12.4
+20212022,67,LETCHER,331,Letcher County,250,Fleming Neon Middle School,331250,A1,10,11.9
+20212022,67,LETCHER,331,Letcher County,380,Cowan Elementary School,331380,A1,16,13.5
+20212022,67,LETCHER,331,Letcher County,425,Martha Jane Potter Elementary School,331425,A1,21,8.2
+20212022,67,LETCHER,331,Letcher County,650,West Whitesburg Elementary School,331650,A1,27,13.0
+20212022,67,LETCHER,331,Letcher County,710,Whitesburg Middle School,331710,A1,14,17.1
+20212022,68,LEWIS,335,Lewis County,40,Garrison Elementary School,335040,A1,17,12.7
+20212022,68,LEWIS,335,Lewis County,90,Laurel Elementary School,335090,A1,6,14.5
+20212022,68,LEWIS,335,Lewis County,95,Lewis County Central Elementary School,335095,A1,29,12.2
+20212022,68,LEWIS,335,Lewis County,100,Lewis County Middle School,335100,A1,22,13.7
+20212022,68,LEWIS,335,Lewis County,120,Lewis County High School,335120,A1,44,9.9
+20212022,68,LEWIS,335,Lewis County,140,Tollesboro Elementary School,335140,A1,17,9.3
+20212022,69,LINCOLN,341,Lincoln County,40,Crab Orchard Elementary School,341040,A1,17,8.2
+20212022,69,LINCOLN,341,Lincoln County,50,Highland Elementary School,341050,A1,13,14.3
+20212022,69,LINCOLN,341,Lincoln County,65,Lincoln County Middle School,341065,A1,43,10.0
+20212022,69,LINCOLN,341,Lincoln County,70,Hustonville Elementary School,341070,A1,24,14.0
+20212022,69,LINCOLN,341,Lincoln County,95,Lincoln County High School,341095,A1,59,10.7
+20212022,69,LINCOLN,341,Lincoln County,130,Stanford Elementary School,341130,A1,36,12.6
+20212022,69,LINCOLN,341,Lincoln County,150,Waynesburg Elementary School,341150,A1,15,8.7
+20212022,70,LIVINGSTON,345,Livingston County,20,North Livingston Elementary School,345020,A1,9,18.9
+20212022,70,LIVINGSTON,345,Livingston County,21,South Livingston Elementary School,345021,A1,17,16.8
+20212022,70,LIVINGSTON,345,Livingston County,50,Livingston Central High School,345050,A1,26,13.2
+20212022,70,LIVINGSTON,345,Livingston County,65,Livingston County Middle School,345065,A1,18,10.9
+20212022,71,LOGAN,351,Logan County,11,Adairville Elementary School,351011,A1,24,13.9
+20212022,71,LOGAN,351,Logan County,12,Auburn Elementary School,351012,A1,36,9.9
+20212022,71,LOGAN,351,Logan County,13,Chandlers Elementary School,351013,A1,28,10.8
+20212022,71,LOGAN,351,Logan County,14,Lewisburg Elementary School,351014,A1,28,9.9
+20212022,71,LOGAN,351,Logan County,16,Olmstead Elementary School,351016,A1,25,12.9
+20212022,71,LOGAN,351,Logan County,140,Logan County High School,351140,A1,65,11.4
+20212022,59,KENTON,354,Ludlow Independent,10,Mary A. Goetz Elementary School,354010,A1,24,12.4
+20212022,59,KENTON,354,Ludlow Independent,20,Ludlow High School,354020,A1,27,15.0
+20212022,72,LYON,361,Lyon County,20,Lyon County Elementary School,361020,A1,25,13.6
+20212022,72,LYON,361,Lyon County,23,Lyon County Middle School,361023,A1,17,15.9
+20212022,72,LYON,361,Lyon County,70,Lyon County High School,361070,A1,18,13.9
+20212022,73,MADISON,365,Madison County,7,Shannon Johnson Elementary School,365007,A1,27,13.4
+20212022,73,MADISON,365,Madison County,8,Boonesborough Elementary,365008,A1,23,11.7
+20212022,73,MADISON,365,Madison County,10,Clark Moores Middle School,365010,A1,43,11.2
+20212022,73,MADISON,365,Madison County,15,Daniel Boone Elementary School,365015,A1,26,12.1
+20212022,73,MADISON,365,Madison County,18,Glenn R Marshall Elementary School,365018,A1,24,14.3
+20212022,73,MADISON,365,Madison County,20,Madison Middle School,365020,A1,41,12.5
+20212022,73,MADISON,365,Madison County,21,B. Michael Caudill Middle School,365021,A1,34,10.0
+20212022,73,MADISON,365,Madison County,30,Kingston Elementary School,365030,A1,31,14.9
+20212022,73,MADISON,365,Madison County,35,Madison County Virtual Academy,365035,A5,10,6.6
+20212022,73,MADISON,365,Madison County,40,Kirksville Elementary School,365040,A1,28,9.6
+20212022,73,MADISON,365,Madison County,45,Kit Carson Elementary School,365045,A1,26,11.2
+20212022,73,MADISON,365,Madison County,50,Madison Central High School,365050,A1,112,10.7
+20212022,73,MADISON,365,Madison County,65,Bellevue Transitional School,365065,A5,1,13.0
+20212022,73,MADISON,365,Madison County,100,Silver Creek Elementary School,365100,A1,26,13.0
+20212022,73,MADISON,365,Madison County,110,Madison Kindergarten Academy,365110,A1,21,8.5
+20212022,73,MADISON,365,Madison County,120,Waco Elementary School,365120,A1,25,12.4
+20212022,73,MADISON,365,Madison County,130,White Hall Elementary School,365130,A1,19,15.7
+20212022,73,MADISON,365,Madison County,140,Foley Middle School,365140,A1,29,10.4
+20212022,73,MADISON,365,Madison County,145,Farristown Middle School,365145,A1,30,14.1
+20212022,73,MADISON,365,Madison County,150,Madison Southern High School,365150,A1,71,12.2
+20212022,73,MADISON,365,Madison County,160,Madison County Day Treatment,365160,A6,2,11.0
+20212022,74,MAGOFFIN,371,Magoffin County,172,North Magoffin Elementary,371172,A1,24,12.2
+20212022,74,MAGOFFIN,371,Magoffin County,173,South Magoffin Elementary,371173,A1,10,10.9
+20212022,74,MAGOFFIN,371,Magoffin County,175,Herald Whitaker Middle School,371175,A1,17,11.6
+20212022,74,MAGOFFIN,371,Magoffin County,360,Salyersville Grade School,371360,A1,29,11.0
+20212022,74,MAGOFFIN,371,Magoffin County,370,Magoffin County High School,371370,A1,36,12.3
+20212022,75,MARION,375,Marion County,20,Calvary Elementary School,375020,A1,15,13.0
+20212022,75,MARION,375,Marion County,30,Hugh C. Spalding Academy,375030,A5,1,0.0
+20212022,75,MARION,375,Marion County,40,Glasscock Elementary School,375040,A1,26,9.2
+20212022,75,MARION,375,Marion County,85,Marion County Knight Academy,375085,A1,44,12.2
+20212022,75,MARION,375,Marion County,95,Marion County Middle School,375095,A1,26,13.8
+20212022,75,MARION,375,Marion County,100,West Marion Elementary School,375100,A1,24,16.4
+20212022,75,MARION,375,Marion County,210,Lebanon Elementary School,375210,A1,21,14.4
+20212022,75,MARION,375,Marion County,515,Marion County High School,375515,A1,44,13.2
+20212022,76,MARSHALL,381,Marshall County,5,Purchase Youth Village,381005,A6,1,26.0
+20212022,76,MARSHALL,381,Marshall County,10,Central Elementary School,381010,A1,29,14.7
+20212022,76,MARSHALL,381,Marshall County,11,Benton Elementary School,381011,A1,34,14.2
+20212022,76,MARSHALL,381,Marshall County,25,MC Academy,381025,A5,1,26.0
+20212022,76,MARSHALL,381,Marshall County,40,Calvert City Elementary School,381040,A1,19,17.6
+20212022,76,MARSHALL,381,Marshall County,85,Jonathan Elementary School,381085,A1,18,11.4
+20212022,76,MARSHALL,381,Marshall County,88,Marshall County High School,381088,A1,93,14.6
+20212022,76,MARSHALL,381,Marshall County,90,North Marshall Middle School,381090,A1,35,11.4
+20212022,76,MARSHALL,381,Marshall County,100,Sharpe Elementary School,381100,A1,19,15.4
+20212022,76,MARSHALL,381,Marshall County,105,South Marshall Elementary School,381105,A1,21,14.0
+20212022,76,MARSHALL,381,Marshall County,111,South Marshall Middle,381111,A1,32,11.8
+20212022,77,MARTIN,385,Martin County,51,Eden Elementary School,385051,A1,22,10.6
+20212022,77,MARTIN,385,Martin County,120,Inez Elementary School,385120,A1,15,11.3
+20212022,77,MARTIN,385,Martin County,250,Martin County High School,385250,A1,34,13.4
+20212022,77,MARTIN,385,Martin County,300,Warfield Elementary School,385300,A1,18,10.5
+20212022,77,MARTIN,385,Martin County,330,Martin County Middle School,385330,A1,16,5.0
+20212022,78,MASON,391,Mason County,11,Mason County Intermediate School,391011,A1,37,15.2
+20212022,78,MASON,391,Mason County,30,Mason County High School,391030,A1,45,13.9
+20212022,78,MASON,391,Mason County,50,Mason County Middle School,391050,A1,41,12.2
+20212022,78,MASON,391,Mason County,80,Charles Straub Elementary School,391080,A1,45,14.5
+20212022,42,GRAVES,392,Mayfield Independent,31,Mayfield Elementary School,392031,A1,44,12.0
+20212022,42,GRAVES,392,Mayfield Independent,60,Mayfield High School,392060,A1,33,11.4
+20212022,42,GRAVES,392,Mayfield Independent,65,Mayfield Middle School,392065,A1,31,8.8
+20212022,79,MCCRACKEN,395,McCracken County,10,Concord Elementary School,395010,A1,35,11.6
+20212022,79,MCCRACKEN,395,McCracken County,12,McCracken Open Campus School,395012,A5,5,15.6
+20212022,79,MCCRACKEN,395,McCracken County,13,McCracken Regional School,395013,A6,2,23.5
+20212022,79,MCCRACKEN,395,McCracken County,15,McCracken County High School,395015,A1,112,12.9
+20212022,79,MCCRACKEN,395,McCracken County,30,Reidland Intermediate School,395030,A1,17,11.0
+20212022,79,MCCRACKEN,395,McCracken County,55,Heath Middle School,395055,A1,29,15.3
+20212022,79,MCCRACKEN,395,McCracken County,65,Hendron Lone Oak Elementary School,395065,A1,26,12.8
+20212022,79,MCCRACKEN,395,McCracken County,75,Lone Oak Intermediate School,395075,A1,25,11.2
+20212022,79,MCCRACKEN,395,McCracken County,80,Lone Oak Elementary School,395080,A1,28,19.8
+20212022,79,MCCRACKEN,395,McCracken County,85,Lone Oak Middle School,395085,A1,46,14.1
+20212022,79,MCCRACKEN,395,McCracken County,100,Reidland Elementary School,395100,A1,31,16.5
+20212022,79,MCCRACKEN,395,McCracken County,115,Reidland Middle School,395115,A1,23,10.9
+20212022,79,MCCRACKEN,395,McCracken County,120,Heath Elementary School,395120,A1,26,13.8
+20212022,80,MCCREARY,401,McCreary County,10,McCreary Central High School,401010,A1,53,11.9
+20212022,80,MCCREARY,401,McCreary County,14,McCreary County Middle School,401014,A1,35,13.7
+20212022,80,MCCREARY,401,McCreary County,20,Pine Knot Elementary School,401020,A1,46,8.2
+20212022,80,MCCREARY,401,McCreary County,330,Whitley City Elementary School,401330,A1,29,13.7
+20212022,81,MCLEAN,405,McLean County,20,Calhoun Elementary School,405020,A1,15,11.1
+20212022,81,MCLEAN,405,McLean County,50,Livermore Elementary School,405050,A1,12,10.9
+20212022,81,MCLEAN,405,McLean County,65,McLean County High School,405065,A1,34,9.5
+20212022,81,MCLEAN,405,McLean County,70,Marie Gatton Phillips Elementary,405070,A1,7,6.3
+20212022,81,MCLEAN,405,McLean County,75,McLean County Middle School,405075,A1,24,6.5
+20212022,81,MCLEAN,405,McLean County,100,McLean County Alternative Center,405100,A5,1,0.0
+20212022,82,MEADE,411,Meade County,11,David T. Wilson Elementary,411011,A1,24,13.8
+20212022,82,MEADE,411,Meade County,12,Brandenburg High School,411012,A5,1,16.0
+20212022,82,MEADE,411,Meade County,13,James R. Allen High School,411013,A5,1,27.0
+20212022,82,MEADE,411,Meade County,15,Stuart Pepper Middle School,411015,A1,36,15.4
+20212022,82,MEADE,411,Meade County,30,Flaherty Primary School,411030,A1,22,11.7
+20212022,82,MEADE,411,Meade County,40,Ekron Elementary School,411040,A1,21,12.7
+20212022,82,MEADE,411,Meade County,50,Flaherty Elementary School,411050,A1,15,12.0
+20212022,82,MEADE,411,Meade County,60,Barry Hahn Primary School,411060,A1,40,14.4
+20212022,82,MEADE,411,Meade County,70,Meade County High School,411070,A1,76,13.7
+20212022,82,MEADE,411,Meade County,90,Payneville Elementary School,411090,A1,14,13.6
+20212022,83,MENIFEE,415,Menifee County,5,Frenchburg Success Academy,415005,A6,1,19.0
+20212022,83,MENIFEE,415,Menifee County,10,Menifee Central School,415010,A1,36,9.1
+20212022,83,MENIFEE,415,Menifee County,90,Menifee County High School,415090,A1,24,8.9
+20212022,84,MERCER,421,Mercer County,15,Mercer County Senior High School,421015,A1,46,13.2
+20212022,84,MERCER,421,Mercer County,27,Mercer County Day Treatment,421027,A6,1,17.0
+20212022,84,MERCER,421,Mercer County,35,Kenneth D. King Middle School,421035,A1,39,10.1
+20212022,84,MERCER,421,Mercer County,40,Mercer Central,421040,A5,8,20.6
+20212022,84,MERCER,421,Mercer County,50,Mercer County Intermediate School,421050,A1,31,13.9
+20212022,84,MERCER,421,Mercer County,70,Mercer County Elementary School,421070,A1,35,13.9
+20212022,85,METCALFE,425,Metcalfe County,10,Metcalfe County Middle School,425010,A1,26,14.7
+20212022,85,METCALFE,425,Metcalfe County,50,Metcalfe County High School,425050,A1,28,11.3
+20212022,85,METCALFE,425,Metcalfe County,60,Metcalfe County Elementary School,425060,A1,33,14.5
+20212022,7,BELL,426,Middlesboro Independent,23,Middlesboro Alternative School,426023,A5,1,0.0
+20212022,7,BELL,426,Middlesboro Independent,30,Middlesboro Elementary School,426030,A1,20,13.6
+20212022,7,BELL,426,Middlesboro Independent,35,Middlesboro Group Home School,426035,A6,1,27.0
+20212022,7,BELL,426,Middlesboro Independent,40,Middlesboro Middle School,426040,A1,27,13.9
+20212022,7,BELL,426,Middlesboro Independent,80,Middlesboro High School,426080,A1,28,9.4
+20212022,86,MONROE,431,Monroe County,150,Gamaliel Elementary,431150,A1,14,10.1
+20212022,86,MONROE,431,Monroe County,160,Monroe Co Middle,431160,A1,27,9.9
+20212022,86,MONROE,431,Monroe County,212,Joe Harrison Carter,431212,A1,14,9.3
+20212022,86,MONROE,431,Monroe County,440,Tompkinsville Elem,431440,A1,20,9.7
+20212022,86,MONROE,431,Monroe County,450,Monroe Co High,431450,A1,36,13.1
+20212022,87,MONTGOMERY,435,Montgomery County,10,Camargo Elementary School,435010,A1,35,11.5
+20212022,87,MONTGOMERY,435,Montgomery County,14,Gateway Children's Services,435014,A6,1,38.0
+20212022,87,MONTGOMERY,435,Montgomery County,25,Northview Elementary,435025,A1,32,9.4
+20212022,87,MONTGOMERY,435,Montgomery County,30,Mapleton Elementary School,435030,A1,26,14.3
+20212022,87,MONTGOMERY,435,Montgomery County,40,Montgomery County High School,435040,A1,73,11.3
+20212022,87,MONTGOMERY,435,Montgomery County,50,Mount Sterling Elementary School,435050,A1,21,9.2
+20212022,87,MONTGOMERY,435,Montgomery County,70,McNabb Middle School,435070,A1,54,8.9
+20212022,87,MONTGOMERY,435,Montgomery County,80,The Sterling School,435080,A5,6,11.7
+20212022,88,MORGAN,441,Morgan County,15,Morgan Central Elementary School,441015,A1,13,13.8
+20212022,88,MORGAN,441,Morgan County,18,Wrigley Elementary School,441018,A1,16,11.3
+20212022,88,MORGAN,441,Morgan County,50,East Valley Elementary School,441050,A1,8,13.3
+20212022,88,MORGAN,441,Morgan County,90,Ezel Elementary School,441090,A1,7,9.6
+20212022,88,MORGAN,441,Morgan County,140,Morgan County Middle School,441140,A1,24,11.2
+20212022,88,MORGAN,441,Morgan County,150,Morgan County High School,441150,A1,33,14.9
+20212022,88,MORGAN,441,Morgan County,230,Woodsbend Youth Development Center,441230,A6,3,24.0
+20212022,89,MUHLENBERG,445,Muhlenberg County,10,Bremen Elementary School,445010,A1,23,12.5
+20212022,89,MUHLENBERG,445,Muhlenberg County,12,Muhlenberg South Elementary,445012,A1,30,14.0
+20212022,89,MUHLENBERG,445,Muhlenberg County,30,Central City Elementary,445030,A1,23,19.4
+20212022,89,MUHLENBERG,445,Muhlenberg County,35,The Renaissance Center,445035,A5,8,16.1
+20212022,89,MUHLENBERG,445,Muhlenberg County,40,Greenville Elementary School,445040,A1,33,12.6
+20212022,89,MUHLENBERG,445,Muhlenberg County,45,Muhlenberg South Middle School,445045,A1,28,14.8
+20212022,89,MUHLENBERG,445,Muhlenberg County,115,Longest Elementary,445115,A1,23,15.7
+20212022,89,MUHLENBERG,445,Muhlenberg County,150,Muhlenberg North Middle,445150,A1,36,12.5
+20212022,89,MUHLENBERG,445,Muhlenberg County,175,Muhlenberg County High School,445175,A1,73,14.1
+20212022,18,CALLOWAY,446,Murray Independent,20,Murray Elementary School,446020,A1,31,15.1
+20212022,18,CALLOWAY,446,Murray Independent,30,Murray Middle School,446030,A1,38,12.2
+20212022,18,CALLOWAY,446,Murray Independent,50,Murray High School,446050,A1,32,12.4
+20212022,18,CALLOWAY,446,Murray Independent,75,Murray Preschool Head Start,446075,A4,6,10.5
+20212022,90,NELSON,451,Nelson County,10,Bloomfield Middle School,451010,A1,27,8.4
+20212022,90,NELSON,451,Nelson County,11,The New Haven School,451011,A1,25,5.9
+20212022,90,NELSON,451,Nelson County,13,Bloomfield Elementary School,451013,A1,15,14.6
+20212022,90,NELSON,451,Nelson County,19,The Academy at Horizons,451019,A5,10,7.0
+20212022,90,NELSON,451,Nelson County,30,Boston School,451030,A1,25,7.8
+20212022,90,NELSON,451,Nelson County,50,Coxs Creek Elementary School,451050,A1,22,7.7
+20212022,90,NELSON,451,Nelson County,70,Foster Heights Elementary School,451070,A1,33,8.4
+20212022,90,NELSON,451,Nelson County,71,Nelson County Early Learning Center,451071,A4,13,8.8
+20212022,90,NELSON,451,Nelson County,90,Old Kentucky Home Middle School,451090,A1,27,9.4
+20212022,90,NELSON,451,Nelson County,100,Nelson County High School,451100,A1,50,12.1
+20212022,90,NELSON,451,Nelson County,101,Thomas Nelson High School,451101,A1,40,9.5
+20212022,19,CAMPBELL,452,Newport Independent,18,Newport Regional School,452018,A6,2,20.0
+20212022,19,CAMPBELL,452,Newport Independent,20,Newport Primary School,452020,A1,27,7.7
+20212022,19,CAMPBELL,452,Newport Independent,30,Newport School of Innovation,452030,A5,1,20.0
+20212022,19,CAMPBELL,452,Newport Independent,40,Newport Intermediate School,452040,A1,31,5.6
+20212022,19,CAMPBELL,452,Newport Independent,70,Newport High School,452070,A1,54,13.1
+20212022,91,NICHOLAS,455,Nicholas County,20,Nicholas County Elementary School,455020,A1,29,11.6
+20212022,91,NICHOLAS,455,Nicholas County,30,Nicholas County High School,455030,A1,28,14.4
+20212022,92,OHIO,461,Ohio County,10,Beaver Dam Elementary School,461010,A1,34,13.3
+20212022,92,OHIO,461,Ohio County,11,Ohio County Day Treatment,461011,A6,5,14.0
+20212022,92,OHIO,461,Ohio County,12,Ohio County Alternative Learning Program,461012,A5,5,14.0
+20212022,92,OHIO,461,Ohio County,90,Fordsville Elementary School,461090,A1,18,7.6
+20212022,92,OHIO,461,Ohio County,110,Ohio County Middle School,461110,A1,37,11.2
+20212022,92,OHIO,461,Ohio County,140,Horse Branch Elementary School,461140,A1,14,10.2
+20212022,92,OHIO,461,Ohio County,155,Ohio County High School,461155,A1,57,11.5
+20212022,92,OHIO,461,Ohio County,170,Southern Elementary School,461170,A1,17,8.2
+20212022,92,OHIO,461,Ohio County,190,Wayland Alexander Elementary School,461190,A1,37,10.4
+20212022,92,OHIO,461,Ohio County,200,Western Elementary School,461200,A1,16,8.1
+20212022,93,OLDHAM,465,Oldham County,5,Camden Station Elementary School,465005,A1,27,8.2
+20212022,93,OLDHAM,465,Oldham County,7,Buckner Elementary School,465007,A1,35,9.8
+20212022,93,OLDHAM,465,Oldham County,10,Centerfield Elementary School,465010,A1,27,12.0
+20212022,93,OLDHAM,465,Oldham County,12,North Oldham High School,465012,A1,59,13.1
+20212022,93,OLDHAM,465,Oldham County,13,Kenwood Station Elementary School,465013,A1,31,12.7
+20212022,93,OLDHAM,465,Oldham County,14,Harmony Elementary School,465014,A1,30,7.1
+20212022,93,OLDHAM,465,Oldham County,15,East Oldham Middle School,465015,A1,45,10.9
+20212022,93,OLDHAM,465,Oldham County,20,Crestwood Elementary School,465020,A1,28,8.7
+20212022,93,OLDHAM,465,Oldham County,25,Goshen At Hillcrest Elementary School,465025,A1,32,13.8
+20212022,93,OLDHAM,465,Oldham County,28,Locust Grove Elementary School,465028,A1,28,12.8
+20212022,93,OLDHAM,465,Oldham County,30,LaGrange Elementary School,465030,A1,25,9.7
+20212022,93,OLDHAM,465,Oldham County,60,Oldham County High School,465060,A1,89,10.8
+20212022,93,OLDHAM,465,Oldham County,70,Oldham County Middle School,465070,A1,55,9.8
+20212022,93,OLDHAM,465,Oldham County,80,Buckner Alternative High School,465080,A5,7,6.1
+20212022,93,OLDHAM,465,Oldham County,90,South Oldham Middle School,465090,A1,46,11.2
+20212022,93,OLDHAM,465,Oldham County,95,South Oldham High School,465095,A1,68,12.1
+20212022,93,OLDHAM,465,Oldham County,100,Oldham County Preschool,465100,A4,8,11.3
+20212022,93,OLDHAM,465,Oldham County,105,Creative and Performing Arts,465105,A2,1,28.0
+20212022,93,OLDHAM,465,Oldham County,350,North Oldham Middle School,465350,A1,46,12.2
+20212022,93,OLDHAM,465,Oldham County,905,The Robert L. Arvin Education Center,465905,A2,16,12.9
+20212022,94,OWEN,471,Owen County,75,Owen County Elementary/Primary School,471075,A1,30,10.9
+20212022,94,OWEN,471,Owen County,78,Maurice Bowling Middle School,471078,A1,37,8.8
+20212022,94,OWEN,471,Owen County,80,Owen County High School,471080,A1,33,12.6
+20212022,30,DAVIESS,472,Owensboro Independent,10,Cravens Elementary School,472010,A1,22,7.1
+20212022,30,DAVIESS,472,Owensboro Independent,15,Emerson Academy,472015,A5,9,12.4
+20212022,30,DAVIESS,472,Owensboro Independent,30,Estes Elementary School,472030,A1,29,7.9
+20212022,30,DAVIESS,472,Owensboro Independent,60,Foust Elementary School,472060,A1,26,9.7
+20212022,30,DAVIESS,472,Owensboro Independent,100,Newton Parrish Elementary School,472100,A1,30,9.1
+20212022,30,DAVIESS,472,Owensboro Independent,102,Owensboro Innovation Middle School,472102,A1,28,11.4
+20212022,30,DAVIESS,472,Owensboro Independent,108,Owensboro Middle School,472108,A1,70,11.4
+20212022,30,DAVIESS,472,Owensboro Independent,110,Owensboro High School,472110,A1,83,14.7
+20212022,30,DAVIESS,472,Owensboro Independent,116,Owensboro Innovation Academy,472116,A2,15,12.5
+20212022,30,DAVIESS,472,Owensboro Independent,140,Sutton Elementary School,472140,A1,24,9.9
+20212022,30,DAVIESS,472,Owensboro Independent,180,Hager Preschool,472180,A4,9,13.8
+20212022,95,OWSLEY,475,Owsley County,20,Owsley County Elementary School,475020,A1,17,14.8
+20212022,95,OWSLEY,475,Owsley County,80,Owsley County High School,475080,A1,23,15.7
+20212022,79,MCCRACKEN,476,Paducah Independent,10,Paducah Middle School,476010,A1,39,9.2
+20212022,79,MCCRACKEN,476,Paducah Independent,15,Paducah Head Start Preschool,476015,A4,10,6.2
+20212022,79,MCCRACKEN,476,Paducah Independent,16,Choices Educational Center,476016,A5,3,20.3
+20212022,79,MCCRACKEN,476,Paducah Independent,20,Clark Elementary School,476020,A1,37,13.1
+20212022,79,MCCRACKEN,476,Paducah Independent,80,McNabb Elementary School,476080,A1,19,10.8
+20212022,79,MCCRACKEN,476,Paducah Independent,150,Morgan Elementary School,476150,A1,24,15.9
+20212022,79,MCCRACKEN,476,Paducah Independent,170,Paducah Tilghman High School,476170,A1,51,11.6
+20212022,58,JOHNSON,477,Paintsville Independent,10,Paintsville Elementary School,477010,A1,28,15.0
+20212022,58,JOHNSON,477,Paintsville Independent,20,Paintsville High School,477020,A1,23,14.4
+20212022,9,BOURBON,478,Paris Independent,10,Paris Elementary School,478010,A1,18,7.1
+20212022,9,BOURBON,478,Paris Independent,20,Paris High School,478020,A1,22,10.0
+20212022,9,BOURBON,478,Paris Independent,30,Paris Middle School,478030,A1,18,6.4
+20212022,9,BOURBON,478,Paris Independent,40,Paris Preschool Center,478040,A4,2,15.0
+20212022,96,PENDLETON,481,Pendleton County,60,Northern Elementary School,481060,A1,27,9.4
+20212022,96,PENDLETON,481,Pendleton County,61,Phillip Sharp Middle School,481061,A1,32,8.5
+20212022,96,PENDLETON,481,Pendleton County,70,Pendleton County High School,481070,A1,42,10.3
+20212022,96,PENDLETON,481,Pendleton County,80,Southern Elementary School,481080,A1,32,12.4
+20212022,97,PERRY,485,Perry County,130,Buckhorn School,485130,A1,30,13.6
+20212022,97,PERRY,485,Perry County,140,Learning Academy,485140,A5,1,24.0
+20212022,97,PERRY,485,Perry County,190,Perry County Alternative School,485190,A5,1,6.0
+20212022,97,PERRY,485,Perry County,200,East Perry County Elementary School,485200,A1,43,12.4
+20212022,97,PERRY,485,Perry County,250,Perry County Central High School,485250,A1,52,11.8
+20212022,97,PERRY,485,Perry County,480,Leatherwood Elementary School,485480,A1,13,10.5
+20212022,97,PERRY,485,Perry County,635,Robert W Combs Elementary School,485635,A1,28,11.6
+20212022,97,PERRY,485,Perry County,640,Robinson Elementary School,485640,A1,18,15.6
+20212022,97,PERRY,485,Perry County,890,Viper Elementary School,485890,A1,20,10.4
+20212022,97,PERRY,485,Perry County,898,West Perry Elementary School,485898,A1,41,11.8
+20212022,98,PIKE,491,Pike County,10,Northpoint Academy,491010,A5,6,14.0
+20212022,98,PIKE,491,Pike County,15,Pike County Day Treatment,491015,A6,5,17.4
+20212022,98,PIKE,491,Pike County,20,Pike County Virtual Academy,491020,A5,1,24.0
+20212022,98,PIKE,491,Pike County,51,Belfry Elementary,491051,A1,29,12.6
+20212022,98,PIKE,491,Pike County,54,East Ridge High School,491054,A1,28,11.8
+20212022,98,PIKE,491,Pike County,57,Feds Creek Elementary School,491057,A1,12,16.8
+20212022,98,PIKE,491,Pike County,58,Belfry Middle School,491058,A1,25,11.2
+20212022,98,PIKE,491,Pike County,59,Millard School,491059,A1,32,13.6
+20212022,98,PIKE,491,Pike County,60,Valley Elementary School,491060,A1,47,13.1
+20212022,98,PIKE,491,Pike County,90,Belfry High School,491090,A1,31,15.7
+20212022,98,PIKE,491,Pike County,130,Bevins Elementary School,491130,A1,14,12.1
+20212022,98,PIKE,491,Pike County,190,Pike County Central High School,491190,A1,35,12.1
+20212022,98,PIKE,491,Pike County,250,Dorton Elementary School,491250,A1,17,16.8
+20212022,98,PIKE,491,Pike County,300,Elkhorn City Elementary School,491300,A1,28,11.8
+20212022,98,PIKE,491,Pike County,620,Johns Creek Elementary School,491620,A1,37,12.6
+20212022,98,PIKE,491,Pike County,650,Kimper Elementary School,491650,A1,10,13.0
+20212022,98,PIKE,491,Pike County,950,Mullins Elementary School,491950,A1,39,9.0
+20212022,98,PIKE,491,Pike County,952,Phelps Elementary School,491952,A1,20,11.7
+20212022,98,PIKE,491,Pike County,954,Phelps High School,491954,A1,22,12.4
+20212022,98,PIKE,491,Pike County,980,Shelby Valley High School,491980,A1,31,13.7
+20212022,98,PIKE,492,Pikeville Independent,20,Pikeville Elementary School,492020,A1,37,12.2
+20212022,98,PIKE,492,Pikeville Independent,30,Pikeville High School,492030,A1,37,12.8
+20212022,7,BELL,493,Pineville Independent,30,Pineville Independent School,493030,A1,38,12.9
+20212022,99,POWELL,495,Powell County,10,Bowen Elementary School,495010,A1,12,12.4
+20212022,99,POWELL,495,Powell County,12,Powell County Academy,495012,A5,4,15.3
+20212022,99,POWELL,495,Powell County,15,Powell County Middle School,495015,A1,33,8.8
+20212022,99,POWELL,495,Powell County,20,Clay City Elementary School,495020,A1,23,9.3
+20212022,99,POWELL,495,Powell County,40,Powell County High School,495040,A1,45,11.2
+20212022,99,POWELL,495,Powell County,60,Stanton Elementary School,495060,A1,19,10.7
+20212022,100,PULASKI,501,Pulaski County,70,Burnside Elementary School,501070,A1,23,12.4
+20212022,100,PULASKI,501,Pulaski County,71,Eagle Academy,501071,A6,3,18.3
+20212022,100,PULASKI,501,Pulaski County,99,Memorial Education Center,501099,A4,8,16.0
+20212022,100,PULASKI,501,Pulaski County,180,Eubank Elementary School,501180,A1,22,13.2
+20212022,100,PULASKI,501,Pulaski County,280,Nancy Elementary School,501280,A1,20,12.9
+20212022,100,PULASKI,501,Pulaski County,380,Pulaski County High School,501380,A1,74,11.2
+20212022,100,PULASKI,501,Pulaski County,385,Pulaski Elementary School,501385,A1,32,14.2
+20212022,100,PULASKI,501,Pulaski County,390,Southern Middle School,501390,A1,54,11.8
+20212022,100,PULASKI,501,Pulaski County,395,Northern Middle School,501395,A1,49,11.9
+20212022,100,PULASKI,501,Pulaski County,400,Southwestern High School,501400,A1,77,13.3
+20212022,100,PULASKI,501,Pulaski County,420,Oak Hill Elementary School,501420,A1,27,11.9
+20212022,100,PULASKI,501,Pulaski County,440,Shopville Elementary School,501440,A1,24,12.5
+20212022,100,PULASKI,501,Pulaski County,560,Northern Elementary School,501560,A1,25,14.4
+20212022,100,PULASKI,501,Pulaski County,570,Southern Elementary School,501570,A1,36,10.4
+20212022,45,GREENUP,502,Raceland-Worthington Independent,10,Campbell Elementary School,502010,A1,18,8.5
+20212022,45,GREENUP,502,Raceland-Worthington Independent,11,Raceland-Worthington Schools Campus B,502011,A6,2,12.5
+20212022,45,GREENUP,502,Raceland-Worthington Independent,20,Raceland-Worthington High School,502020,A1,25,16.0
+20212022,45,GREENUP,502,Raceland-Worthington Independent,30,Raceland-Worthington Middle School,502030,A1,34,16.2
+20212022,45,GREENUP,502,Raceland-Worthington Independent,160,Raceland-Worthington Schools Campus A,502160,A6,3,11.3
+20212022,101,ROBERTSON,505,Robertson County,10,Robertson County School,505010,A1,22,12.8
+20212022,102,ROCKCASTLE,511,Rockcastle County,20,Brodhead Elementary School,511020,A1,29,13.0
+20212022,102,ROCKCASTLE,511,Rockcastle County,22,Rockcastle Academy for Academic Achievement,511022,A5,2,15.5
+20212022,102,ROCKCASTLE,511,Rockcastle County,100,Rockcastle County Middle School,511100,A1,44,14.0
+20212022,102,ROCKCASTLE,511,Rockcastle County,170,Mt. Vernon Elementary,511170,A1,42,15.2
+20212022,102,ROCKCASTLE,511,Rockcastle County,310,Rockcastle County High School,511310,A1,48,14.8
+20212022,102,ROCKCASTLE,511,Rockcastle County,320,Roundstone Elementary School,511320,A1,21,12.8
+20212022,103,ROWAN,515,Rowan County,40,Clearfield Elementary School,515040,A1,16,9.0
+20212022,103,ROWAN,515,Rowan County,43,McBrayer Elementary School,515043,A1,27,14.6
+20212022,103,ROWAN,515,Rowan County,44,Rowan County Preschool Center,515044,A4,5,11.0
+20212022,103,ROWAN,515,Rowan County,130,Morehead Youth Development Center,515130,A6,1,16.0
+20212022,103,ROWAN,515,Rowan County,132,Bluegrass Discovery Academy High,515132,A5,1,21.0
+20212022,103,ROWAN,515,Rowan County,133,Bluegrass Discovery Academy Middle,515133,A5,1,27.0
+20212022,103,ROWAN,515,Rowan County,180,Rowan County Senior High School,515180,A1,50,15.0
+20212022,103,ROWAN,515,Rowan County,200,Tilden Hogge Elementary School,515200,A1,14,13.8
+20212022,103,ROWAN,515,Rowan County,210,Rowan County Middle School,515210,A1,39,14.6
+20212022,103,ROWAN,515,Rowan County,250,Rodburn Elementary School,515250,A1,27,15.3
+20212022,104,RUSSELL,521,Russell County,140,Jamestown Elementary School,521140,A1,27,13.0
+20212022,104,RUSSELL,521,Russell County,230,Russell Springs Elementary School,521230,A1,39,11.8
+20212022,104,RUSSELL,521,Russell County,240,Russell County High School,521240,A1,48,14.5
+20212022,104,RUSSELL,521,Russell County,250,Salem Elementary School,521250,A1,22,7.9
+20212022,104,RUSSELL,521,Russell County,260,Russell County Middle School,521260,A1,33,12.7
+20212022,45,GREENUP,522,Russell Independent,11,Russell Primary School,522011,A1,28,15.7
+20212022,45,GREENUP,522,Russell Independent,30,Russell-McDowell Intermediate School,522030,A1,31,14.2
+20212022,45,GREENUP,522,Russell Independent,50,Russell High School,522050,A1,44,14.5
+20212022,45,GREENUP,522,Russell Independent,60,Russell Middle School,522060,A1,39,13.2
+20212022,45,GREENUP,522,Russell Independent,70,Russell Independent Alternative School,522070,A5,2,13.5
+20212022,71,LOGAN,523,Russellville Independent,20,Russellville Primary Academy,523020,A4,11,5.6
+20212022,71,LOGAN,523,Russellville Independent,25,R E Stevenson Elementary School,523025,A1,19,4.6
+20212022,71,LOGAN,523,Russellville Independent,30,Russellville High School,523030,A1,22,9.3
+20212022,71,LOGAN,523,Russellville Independent,50,Russellville Middle School,523050,A1,24,7.9
+20212022,100,PULASKI,524,Science Hill Independent,10,Science Hill Elementary School,524010,A1,30,13.5
+20212022,105,SCOTT,525,Scott County,5,Phoenix Horizon Community,525005,A5,8,11.9
+20212022,105,SCOTT,525,Scott County,10,Eastern Elementary School,525010,A1,20,8.0
+20212022,105,SCOTT,525,Scott County,12,Anne Mason Elementary School,525012,A1,22,10.1
+20212022,105,SCOTT,525,Scott County,13,Royal Spring Middle School,525013,A1,36,10.4
+20212022,105,SCOTT,525,Scott County,14,Lemons Mill Elementary School,525014,A1,21,9.8
+20212022,105,SCOTT,525,Scott County,15,Garth Elementary School,525015,A1,20,9.7
+20212022,105,SCOTT,525,Scott County,18,Georgetown Middle School,525018,A1,41,7.9
+20212022,105,SCOTT,525,Scott County,19,Scott County Preschool,525019,A4,13,11.5
+20212022,105,SCOTT,525,Scott County,25,Great Crossing High School,525025,A1,79,9.9
+20212022,105,SCOTT,525,Scott County,29,Creekside Elementary,525029,A1,25,10.4
+20212022,105,SCOTT,525,Scott County,35,Northern Elementary School,525035,A1,24,14.9
+20212022,105,SCOTT,525,Scott County,40,Scott County High School,525040,A1,63,11.4
+20212022,105,SCOTT,525,Scott County,44,Elkhorn Crossing School,525044,A2,19,12.7
+20212022,105,SCOTT,525,Scott County,50,Stamping Ground Elementary School,525050,A1,22,11.3
+20212022,105,SCOTT,525,Scott County,60,Scott County Middle School,525060,A1,43,13.4
+20212022,105,SCOTT,525,Scott County,70,Southern Elementary School,525070,A1,27,9.4
+20212022,105,SCOTT,525,Scott County,80,Western Elementary School,525080,A1,30,9.2
+20212022,106,SHELBY,531,Shelby County,14,Painted Stone Elementary,531014,A1,30,11.2
+20212022,106,SHELBY,531,Shelby County,15,Southside Elementary,531015,A1,28,7.5
+20212022,106,SHELBY,531,Shelby County,40,Martha Layne Collins High School,531040,A1,75,9.5
+20212022,106,SHELBY,531,Shelby County,54,Marnel C. Moorman School,531054,A1,48,8.7
+20212022,106,SHELBY,531,Shelby County,65,Heritage Elementary,531065,A1,30,7.7
+20212022,106,SHELBY,531,Shelby County,80,Shelby County West Middle School,531080,A1,32,7.8
+20212022,106,SHELBY,531,Shelby County,90,Shelby County High School,531090,A1,72,10.6
+20212022,106,SHELBY,531,Shelby County,100,Simpsonville Elementary,531100,A1,27,13.3
+20212022,106,SHELBY,531,Shelby County,110,Shelby County East Middle School,531110,A1,33,11.7
+20212022,106,SHELBY,531,Shelby County,120,Clear Creek Elementary,531120,A1,27,11.0
+20212022,106,SHELBY,531,Shelby County,130,Wright Elementary,531130,A1,27,11.7
+20212022,106,SHELBY,531,Shelby County,160,Northside Early Childhood Center,531160,A4,7,11.4
+20212022,106,SHELBY,531,Shelby County,170,Ascension Academy,531170,A6,2,1.0
+20212022,107,SIMPSON,535,Simpson County,7,Franklin-Simpson High School West Campus,535007,A5,5,21.6
+20212022,107,SIMPSON,535,Simpson County,20,Franklin Elementary School,535020,A1,18,15.7
+20212022,107,SIMPSON,535,Simpson County,30,Franklin-Simpson Middle School,535030,A1,41,10.1
+20212022,107,SIMPSON,535,Simpson County,40,Franklin-Simpson High School,535040,A1,60,12.1
+20212022,107,SIMPSON,535,Simpson County,45,Lincoln Elementary School,535045,A1,29,11.2
+20212022,107,SIMPSON,535,Simpson County,100,Simpson Elementary School,535100,A1,37,15.1
+20212022,100,PULASKI,536,Somerset Independent,50,Hopkins Elementary School,536050,A1,36,13.4
+20212022,100,PULASKI,536,Somerset Independent,70,Somerset High School,536070,A1,37,13.1
+20212022,100,PULASKI,536,Somerset Independent,90,Meece Middle School,536090,A1,30,11.6
+20212022,19,CAMPBELL,537,Southgate Independent,10,Southgate Public School,537010,A1,14,9.6
+20212022,108,SPENCER,541,Spencer County,40,Spencer County Elementary School,541040,A1,35,16.7
+20212022,108,SPENCER,541,Spencer County,41,Spencer County Middle School,541041,A1,37,10.8
+20212022,108,SPENCER,541,Spencer County,42,Hillview Academy,541042,A5,3,18.7
+20212022,108,SPENCER,541,Spencer County,43,Spencer County Early Learning Center,541043,A4,7,5.9
+20212022,108,SPENCER,541,Spencer County,44,Taylorsville Elementary School,541044,A1,29,11.2
+20212022,108,SPENCER,541,Spencer County,50,Spencer County High School,541050,A1,57,9.9
+20212022,109,TAYLOR,545,Taylor County,5,Taylor County Primary Center,545005,A1,42,13.3
+20212022,109,TAYLOR,545,Taylor County,20,Taylor County Elementary School,545020,A1,29,12.3
+20212022,109,TAYLOR,545,Taylor County,30,Taylor County High School,545030,A1,58,11.6
+20212022,109,TAYLOR,545,Taylor County,40,Taylor County Middle School,545040,A1,37,12.7
+20212022,109,TAYLOR,545,Taylor County,75,Lakeview Academy,545075,A5,3,15.3
+20212022,110,TODD,551,Todd County,5,North Todd Elementary School,551005,A1,22,9.9
+20212022,110,TODD,551,Todd County,15,South Todd Elementary School,551015,A1,27,11.2
+20212022,110,TODD,551,Todd County,17,Horizons High School,551017,A5,2,25.5
+20212022,110,TODD,551,Todd County,80,Todd County Middle School,551080,A1,26,10.5
+20212022,110,TODD,551,Todd County,95,Todd County Central High School,551095,A1,32,10.0
+20212022,111,TRIGG,555,Trigg County,13,Trigg County Primary School,555013,A1,35,14.5
+20212022,111,TRIGG,555,Trigg County,14,Trigg County Intermediate School,555014,A1,35,15.0
+20212022,111,TRIGG,555,Trigg County,20,Harbor Academy and Virtual School,555020,A5,3,21.0
+20212022,111,TRIGG,555,Trigg County,50,Trigg County Middle School,555050,A1,31,11.5
+20212022,111,TRIGG,555,Trigg County,70,Trigg County High School,555070,A1,43,12.7
+20212022,112,TRIMBLE,561,Trimble County,10,Bedford Elementary School,561010,A1,21,10.4
+20212022,112,TRIMBLE,561,Trimble County,20,Milton Elementary School,561020,A1,16,14.7
+20212022,112,TRIMBLE,561,Trimble County,25,Trimble County JR/SR High School,561025,A1,31,13.3
+20212022,113,UNION,565,Union County,15,Union County Preschool and Headstart,565015,A4,2,5.0
+20212022,113,UNION,565,Union County,20,Morganfield Elementary School,565020,A1,22,12.8
+20212022,113,UNION,565,Union County,21,Union County Learning Academy,565021,A5,1,45.0
+20212022,113,UNION,565,Union County,50,Sturgis Elementary School,565050,A1,21,12.7
+20212022,113,UNION,565,Union County,55,Union County Middle School,565055,A1,23,7.3
+20212022,113,UNION,565,Union County,65,Union County High School,565065,A1,37,12.9
+20212022,113,UNION,565,Union County,70,Uniontown Elementary School,565070,A1,13,12.4
+20212022,8,BOONE,567,Walton-Verona Independent,10,Walton-Verona Elementary School,567010,A1,36,12.2
+20212022,8,BOONE,567,Walton-Verona Independent,15,Walton-Verona Middle School,567015,A1,32,14.1
+20212022,8,BOONE,567,Walton-Verona Independent,20,Walton-Verona High School,567020,A1,38,13.2
+20212022,8,BOONE,567,Walton-Verona Independent,25,Walton - Verona Early Childhood Center,567025,A4,4,9.5
+20212022,114,WARREN,571,Warren County,2,South Warren Middle School,571002,A1,40,11.2
+20212022,114,WARREN,571,Warren County,3,South Warren High School,571003,A1,76,12.1
+20212022,114,WARREN,571,Warren County,10,Alvaton Elementary,571010,A1,34,13.5
+20212022,114,WARREN,571,Warren County,15,Briarwood Elementary School,571015,A1,34,13.2
+20212022,114,WARREN,571,Warren County,16,Lighthouse Academy,571016,A5,4,18.8
+20212022,114,WARREN,571,Warren County,18,Plano Elementary,571018,A1,32,7.4
+20212022,114,WARREN,571,Warren County,20,Beacon Academy,571020,A5,6,19.2
+20212022,114,WARREN,571,Warren County,25,Jennings Creek Elementary,571025,A1,35,4.7
+20212022,114,WARREN,571,Warren County,30,Jody Richards Elementary,571030,A1,31,10.3
+20212022,114,WARREN,571,Warren County,40,Bristow Elementary,571040,A1,32,11.5
+20212022,114,WARREN,571,Warren County,70,Cumberland Trace Elementary,571070,A1,32,9.7
+20212022,114,WARREN,571,Warren County,75,Drakes Creek Middle School,571075,A1,42,11.4
+20212022,114,WARREN,571,Warren County,80,Lost River Elementary,571080,A1,37,10.9
+20212022,114,WARREN,571,Warren County,90,Jackson Academy,571090,A5,2,17.5
+20212022,114,WARREN,571,Warren County,100,William H. Natcher Elementary,571100,A1,36,10.1
+20212022,114,WARREN,571,Warren County,110,North Warren Elementary,571110,A1,24,7.7
+20212022,114,WARREN,571,Warren County,130,Oakland Elementary,571130,A1,23,7.7
+20212022,114,WARREN,571,Warren County,140,Rich Pond Elementary,571140,A1,33,9.2
+20212022,114,WARREN,571,Warren County,150,Richardsville Elementary,571150,A1,22,8.8
+20212022,114,WARREN,571,Warren County,170,Rockfield Elementary,571170,A1,31,8.4
+20212022,114,WARREN,571,Warren County,175,Henry F. Moss Middle School,571175,A1,43,10.7
+20212022,114,WARREN,571,Warren County,200,Warren Elementary,571200,A1,31,6.2
+20212022,114,WARREN,571,Warren County,205,Warren East Middle School,571205,A1,38,10.0
+20212022,114,WARREN,571,Warren County,210,Warren Central High School,571210,A1,65,7.3
+20212022,114,WARREN,571,Warren County,220,Warren East High School,571220,A1,58,10.8
+20212022,114,WARREN,571,Warren County,230,Greenwood High School,571230,A1,76,13.2
+20212022,114,WARREN,571,Warren County,245,GEO International High School,571245,A5,12,8.0
+20212022,114,WARREN,571,Warren County,300,Rivendell Elementary,571300,A5,4,15.0
+20212022,114,WARREN,571,Warren County,305,Rivendell High School,571305,A5,3,11.7
+20212022,114,WARREN,571,Warren County,455,Warren County Day Treatment,571455,A6,2,11.5
+20212022,115,WASHINGTON,575,Washington County,21,Commander Academy,575021,A5,3,11.3
+20212022,115,WASHINGTON,575,Washington County,31,North Washington Elementary School,575031,A1,31,14.8
+20212022,115,WASHINGTON,575,Washington County,34,Washington County Middle School,575034,A1,15,16.3
+20212022,115,WASHINGTON,575,Washington County,74,Washington County High School,575074,A1,31,10.8
+20212022,115,WASHINGTON,575,Washington County,80,Washington County Elementary School,575080,A1,24,12.7
+20212022,116,WAYNE,581,Wayne County,51,Wayne County Middle School,581051,A1,42,11.8
+20212022,116,WAYNE,581,Wayne County,60,Wayne County Learning Academy,581060,A5,6,21.0
+20212022,116,WAYNE,581,Wayne County,170,Lake Cumberland Youth Development Center,581170,A6,3,26.7
+20212022,116,WAYNE,581,Wayne County,180,Otter Creek Academy,581180,A6,4,15.0
+20212022,116,WAYNE,581,Wayne County,190,Monticello Elementary School,581190,A1,34,11.0
+20212022,116,WAYNE,581,Wayne County,200,Wayne County High School,581200,A1,55,13.5
+20212022,116,WAYNE,581,Wayne County,430,Walker Early Learning Center,581430,A1,16,7.8
+20212022,116,WAYNE,581,Wayne County,437,Bell Elementary School,581437,A1,22,7.4
+20212022,117,WEBSTER,585,Webster County,20,Clay Elementary School,585020,A1,12,9.9
+20212022,117,WEBSTER,585,Webster County,50,Dixon Elementary School,585050,A1,15,11.6
+20212022,117,WEBSTER,585,Webster County,60,Providence Elementary School,585060,A1,17,14.1
+20212022,117,WEBSTER,585,Webster County,90,Sebree Elementary School,585090,A1,19,8.4
+20212022,117,WEBSTER,585,Webster County,125,Webster County Middle School,585125,A1,22,13.0
+20212022,117,WEBSTER,585,Webster County,130,Webster County High School,585130,A1,38,10.8
+20212022,118,WHITLEY,591,Whitley County,10,Colonel Academy,591010,A5,1,13.0
+20212022,118,WHITLEY,591,Whitley County,60,Boston Elementary School,591060,A1,15,13.6
+20212022,118,WHITLEY,591,Whitley County,61,Whitley Central Intermediate School,591061,A1,29,13.1
+20212022,118,WHITLEY,591,Whitley County,62,Whitley County East Elementary School,591062,A1,15,6.6
+20212022,118,WHITLEY,591,Whitley County,225,Whitley County Alternative School,591225,A5,4,19.0
+20212022,118,WHITLEY,591,Whitley County,290,Oak Grove Elementary School,591290,A1,27,14.7
+20212022,118,WHITLEY,591,Whitley County,320,Pleasant View Elementary School,591320,A1,18,12.4
+20212022,118,WHITLEY,591,Whitley County,350,Whitley County North Elementary School,591350,A1,21,15.4
+20212022,118,WHITLEY,591,Whitley County,365,Whitley County Central Primary School,591365,A1,27,15.2
+20212022,118,WHITLEY,591,Whitley County,430,Whitley County High School,591430,A1,61,14.1
+20212022,118,WHITLEY,591,Whitley County,435,Whitley County Middle School,591435,A1,39,12.3
+20212022,118,WHITLEY,592,Williamsburg Independent,12,Williamsburg City School,592012,A1,53,10.2
+20212022,41,GRANT,593,Williamstown Independent,10,Williamstown Elementary,593010,A1,18,7.6
+20212022,41,GRANT,593,Williamstown Independent,20,Williamstown Jr. High,593020,A1,16,12.7
+20212022,41,GRANT,593,Williamstown Independent,30,Williamstown Sr. High,593030,A1,19,9.7
+20212022,41,GRANT,593,Williamstown Independent,40,Williamstown Head Start Preschool,593040,A4,4,7.0
+20212022,119,WOLFE,595,Wolfe County,140,Dessie Scott School,595140,A6,2,16.5
+20212022,119,WOLFE,595,Wolfe County,205,Red River Valley Elementary School,595205,A1,7,13.4
+20212022,119,WOLFE,595,Wolfe County,220,Rogers Elementary School,595220,A1,8,9.9
+20212022,119,WOLFE,595,Wolfe County,310,Campton Elementary School,595310,A1,20,10.3
+20212022,119,WOLFE,595,Wolfe County,312,Success Academy,595312,A5,1,13.0
+20212022,119,WOLFE,595,Wolfe County,315,Wolfe County Middle School,595315,A1,19,13.4
+20212022,119,WOLFE,595,Wolfe County,320,Wolfe County High School,595320,A1,26,13.8
+20212022,120,WOODFORD,601,Woodford County,13,Safe Harbor Academy,601013,A5,5,6.4
+20212022,120,WOODFORD,601,Woodford County,50,Southside Elementary School,601050,A1,26,13.9
+20212022,120,WOODFORD,601,Woodford County,75,Simmons Elementary School,601075,A1,21,13.8
+20212022,120,WOODFORD,601,Woodford County,84,Woodford County High School,601084,A1,70,11.0
+20212022,120,WOODFORD,601,Woodford County,85,Woodford County Middle School,601085,A1,54,9.0
+20212022,120,WOODFORD,601,Woodford County,90,Huntertown Elementary School,601090,A1,24,12.5
+20212022,120,WOODFORD,601,Woodford County,120,Northside Elementary School,601120,A1,19,15.9
+20212022,11,BOYLE,603,Kentucky School for the Deaf,390,Kentucky School for the Deaf,603390,D1,1,3.0
+20212022,73,MADISON,606,Model Laboratory Schools at EKU,450,Model Elementary,606450,B1,24,10.7
+20212022,73,MADISON,606,Model Laboratory Schools at EKU,460,Model High School,606460,B1,31,13.4
+20212022,37,FRANKLIN,777,Kentucky Tech System,5,Estill County Area Technology Center,777005,C2,1,9.0
+20212022,37,FRANKLIN,777,Kentucky Tech System,100,Barren County Area Technology Center,777100,C2,2,2.5
+20212022,37,FRANKLIN,777,Kentucky Tech System,106,Bullitt County Area Technology Center,777106,C2,4,24.5
+20212022,37,FRANKLIN,777,Kentucky Tech System,112,Clark County Area Technology Center,777112,C2,2,1.0
+20212022,37,FRANKLIN,777,Kentucky Tech System,118,Garrard County Area Technology Center,777118,C2,1,11.0
+20212022,37,FRANKLIN,777,Kentucky Tech System,119,Green County Area Technology Center,777119,C2,8,8.4
+20212022,37,FRANKLIN,777,Kentucky Tech System,120,Greenup County Area Technology Center,777120,C2,1,0.0
+20212022,37,FRANKLIN,777,Kentucky Tech System,123,Trailblazer Academy,777123,C2,2,21.0
+20212022,37,FRANKLIN,777,Kentucky Tech System,126,Knox County Area Technology Center,777126,C2,8,10.0
+20212022,37,FRANKLIN,777,Kentucky Tech System,136,Mayfield/Graves County Area Tech Center,777136,C2,1,5.0
+20212022,37,FRANKLIN,777,Kentucky Tech System,137,Meade County College and Career Center,777137,C2,4,9.0
+20212022,37,FRANKLIN,777,Kentucky Tech System,142,Murray/Calloway County Area Tech Center,777142,C2,1,2.0
+20212022,37,FRANKLIN,777,Kentucky Tech System,143,Nelson County Area Technology Center,777143,C2,24,10.3
+20212022,37,FRANKLIN,777,Kentucky Tech System,151,Logan County Career and Technical Center,777151,C2,1,3.0
+20212022,37,FRANKLIN,777,Kentucky Tech System,160,Ignite Institute,777160,A2,44,11.0
